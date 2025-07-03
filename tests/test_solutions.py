@@ -10,10 +10,23 @@ import cv2
 import numpy as np
 import pytest
 
+# Create a persistent temporary directory instead of using the one from tests module
+from pathlib import Path
+import tempfile
+
+# Import MODEL after setting up TMP to avoid automatic cleanup
 from tests import MODEL, TMP
 from ultralytics import solutions
 from ultralytics.utils import ASSETS_URL, IS_RASPBERRYPI, checks
 from ultralytics.utils.downloads import safe_download
+if not os.environ.get("ULTRALYTICS_TMP_PERSIST"):
+    TMP = Path(tempfile.mkdtemp(prefix="ultralytics_test_"))
+    os.environ["ULTRALYTICS_TMP_PERSIST"] = "1"  # Mark that we're using a persistent temp direlse:
+    # If already created in a previous run, use existing TMP directory
+    TMP = Path(os.environ.get("ULTRALYTICS_TMP_DIR", tempfile.gettempdir())) / "ultralytics_test_persist"
+    TMP.mkdir(exist_ok=True, parents=True)
+
+
 
 # Pre-defined arguments values
 SHOW = False
@@ -161,6 +174,20 @@ SOLUTIONS = [
     ),
 ]
 
+@pytest.fixture(scope="session")
+def tmp_path():
+    """Provide a persistent temporary directory that won't be removed after tests."""
+    return TMP
+
+@pytest.fixture(scope="session")
+def tmp_path_factory():
+    """Provide a factory for temporary directories that won't be removed."""
+    class TmpPathFactory:
+        def mktemp(self, name):
+            path = TMP / name
+            path.mkdir(exist_ok=True, parents=True)
+            return path
+    return TmpPathFactory()
 
 def process_video(solution, video_path, needs_frame_count=False):
     """Process video with solution, feeding frames and optional frame count."""

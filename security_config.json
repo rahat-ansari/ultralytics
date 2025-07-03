@@ -1,0 +1,15 @@
+{
+    "known_faces_dir": "images",
+    "alarm_sound_path": "./pols-aagyi-pols.mp3",
+    "alarm_cooldown": 3,
+    "confidence_threshold": 0.5,
+    "face_recognition_tolerance": 0.6,
+    "pose_visibility_threshold": 0.5,
+    "camera_index": 0,
+    "email_enabled": false,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "",
+    "sender_password": "",
+    "recipient_email": ""
+}

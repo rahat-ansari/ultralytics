@@ -174,3 +174,14 @@ pnnx*
 
 # calibration image
 calibration_*.npy
+/.conda
+/alert_images
+*.mp4
+/images
+/tmp
+/security_env
+*.avi
+*.jpg
+*.mov
+*.zip
+*.jpeg

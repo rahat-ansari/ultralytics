@@ -1,0 +1,12 @@
+2025-06-30 12:33:39 - SYSTEM_START: 
+2025-06-30 12:33:47 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-06-30 12:33:47 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-06-30 12:34:04 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-06-30 12:34:04 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-06-30 12:34:22 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-06-30 12:34:22 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-06-30 12:34:23 - UNKNOWN_PERSON: With objects: None
+2025-06-30 12:34:32 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-06-30 12:34:32 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-06-30 12:34:42 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-06-30 12:34:42 - KNOWN_PERSON: Detected: Robin with objects: None

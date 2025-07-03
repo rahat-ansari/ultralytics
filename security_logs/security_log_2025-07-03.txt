@@ -1,0 +1,11 @@
+2025-07-03 17:03:49 - SYSTEM_START: 
+2025-07-03 17:04:52 - ALERT_TRIGGERED: Person: Bappi, Objects: None
+2025-07-03 17:04:52 - KNOWN_PERSON: Detected: Bappi with objects: None
+2025-07-03 17:05:12 - UNKNOWN_PERSON: With objects: None
+2025-07-03 17:05:42 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-03 17:05:42 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-03 17:05:45 - UNKNOWN_PERSON: With objects: None
+2025-07-03 17:05:53 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-03 17:05:53 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-03 17:06:04 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-03 17:06:04 - KNOWN_PERSON: Detected: Robin with objects: None
