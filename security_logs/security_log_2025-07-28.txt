@@ -1,0 +1,371 @@
+2025-07-28 14:49:15 - SYSTEM_START: 
+2025-07-28 15:08:58 - SYSTEM_START: 
+2025-07-28 15:28:02 - SYSTEM_START: 
+2025-07-28 15:28:59 - UNKNOWN_PERSON: With objects: None
+2025-07-28 15:29:00 - UNKNOWN_PERSON: With objects: None
+2025-07-28 15:29:13 - SYSTEM_SHUTDOWN: 
+2025-07-28 15:32:39 - SYSTEM_START: 
+2025-07-28 15:32:39 - SYSTEM_ERROR: '[31m[1mpersist[0m' is not a valid YOLO argument. 
+
+    Arguments received: ['yolo', '--f=c:\\Users\\Rahat\\AppData\\Roaming\\jupyter\\runtime\\kernel-v337fe1439214a5910c9aca2c1ef41e462a1fa4c59.json']. Ultralytics 'yolo' commands use the following syntax:
+
+        yolo TASK MODE ARGS
+
+        Where   TASK (optional) is one of frozenset({'segment', 'detect', 'obb', 'classify', 'pose'})
+                MODE (required) is one of frozenset({'track', 'train', 'val', 'predict', 'benchmark', 'export'})
+                ARGS (optional) are any number of custom 'arg=value' pairs like 'imgsz=320' that override defaults.
+                    See all ARGS at https://docs.ultralytics.com/usage/cfg or with 'yolo cfg'
+
+    1. Train a detection model for 10 epochs with an initial learning_rate of 0.01
+        yolo train data=coco8.yaml model=yolo11n.pt epochs=10 lr0=0.01
+
+    2. Predict a YouTube video using a pretrained segmentation model at image size 320:
+        yolo predict model=yolo11n-seg.pt source='https://youtu.be/LNwODJXcvt4' imgsz=320
+
+    3. Val a pretrained detection model at batch-size 1 and image size 640:
+        yolo val model=yolo11n.pt data=coco8.yaml batch=1 imgsz=640
+
+    4. Export a YOLO11n classification model to ONNX format at image size 224 by 128 (no TASK required)
+        yolo export model=yolo11n-cls.pt format=onnx imgsz=224,128
+
+    5. Ultralytics solutions usage
+        yolo solutions count or in ['crop', 'blur', 'workout', 'heatmap', 'isegment', 'visioneye', 'speed', 'queue', 'analytics', 'inference', 'trackzone'] source="path/to/video.mp4"
+
+    6. Run special commands:
+        yolo help
+        yolo checks
+        yolo version
+        yolo settings
+        yolo copy-cfg
+        yolo cfg
+        yolo solutions help
+
+    Docs: https://docs.ultralytics.com
+    Solutions: https://docs.ultralytics.com/solutions/
+    Community: https://community.ultralytics.com
+    GitHub: https://github.com/ultralytics/ultralytics
+    
+2025-07-28 15:32:39 - SYSTEM_SHUTDOWN: 
+2025-07-28 15:33:15 - SYSTEM_START: 
+2025-07-28 15:36:28 - SYSTEM_START: 
+2025-07-28 15:40:06 - SYSTEM_SHUTDOWN: 
+2025-07-28 15:49:33 - SYSTEM_START: 
+2025-07-28 15:49:36 - UNKNOWN_PERSON: With objects: None
+2025-07-28 15:49:37 - UNKNOWN_PERSON: With objects: None
+2025-07-28 15:49:40 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 15:49:41 - UNKNOWN_PERSON: With objects: None
+2025-07-28 15:49:52 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 15:50:02 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 15:50:07 - SYSTEM_SHUTDOWN: 
+2025-07-28 16:06:01 - SYSTEM_START: 
+2025-07-28 16:06:08 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 16:06:18 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 16:06:29 - SYSTEM_SHUTDOWN: 
+2025-07-28 16:12:29 - SYSTEM_START: 
+2025-07-28 16:12:31 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 16:12:42 - KNOWN_PERSON: Detected: Jhon with objects: None
+2025-07-28 16:12:49 - UNKNOWN_PERSON: With objects: None
+2025-07-28 16:12:53 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 16:13:04 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 16:13:08 - UNKNOWN_PERSON: With objects: None
+2025-07-28 16:13:09 - SYSTEM_SHUTDOWN: 
+2025-07-28 16:15:26 - SYSTEM_START: 
+2025-07-28 16:15:29 - SYSTEM_ERROR: name 'detect_faces_mediapipe' is not defined
+2025-07-28 16:15:29 - SYSTEM_SHUTDOWN: 
+2025-07-28 16:17:16 - SYSTEM_START: 
+2025-07-28 16:17:18 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 16:17:29 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 16:17:32 - UNKNOWN_PERSON: With objects: None
+2025-07-28 16:17:36 - SYSTEM_SHUTDOWN: 
+2025-07-28 16:34:15 - SYSTEM_START: 
+2025-07-28 16:34:16 - SYSTEM_ERROR: name 'model' is not defined
+2025-07-28 16:34:16 - SYSTEM_SHUTDOWN: 
+2025-07-28 16:35:29 - SYSTEM_START: 
+2025-07-28 16:35:34 - SYSTEM_ERROR: name 'detect_faces_mediapipe' is not defined
+2025-07-28 16:35:34 - SYSTEM_SHUTDOWN: 
+2025-07-28 16:37:05 - SYSTEM_START: 
+2025-07-28 16:37:19 - SYSTEM_ERROR: name 'detect_faces_mediapipe' is not defined
+2025-07-28 16:37:19 - SYSTEM_SHUTDOWN: 
+2025-07-28 16:38:25 - SYSTEM_START: 
+2025-07-28 16:38:32 - SYSTEM_ERROR: name 'detect_faces_mediapipe' is not defined
+2025-07-28 16:38:32 - SYSTEM_SHUTDOWN: 
+2025-07-28 16:40:47 - SYSTEM_START: 
+2025-07-28 16:40:51 - SYSTEM_ERROR: name 'detect_faces_mediapipe' is not defined
+2025-07-28 16:40:51 - SYSTEM_SHUTDOWN: 
+2025-07-28 17:15:59 - SYSTEM_START: 
+2025-07-28 17:16:44 - UNKNOWN_PERSON: With objects: None
+2025-07-28 17:16:48 - UNKNOWN_PERSON: With objects: None
+2025-07-28 17:16:50 - SYSTEM_SHUTDOWN: 
+2025-07-28 20:05:59 - SYSTEM_START: 
+2025-07-28 20:08:49 - SYSTEM_START: 
+2025-07-28 20:08:54 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 20:08:56 - UNKNOWN_PERSON: With objects: None
+2025-07-28 20:08:58 - UNKNOWN_PERSON: With objects: None
+2025-07-28 20:09:04 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 20:09:06 - UNKNOWN_PERSON: With objects: None
+2025-07-28 20:09:13 - SYSTEM_SHUTDOWN: 
+2025-07-28 20:11:12 - SYSTEM_START: 
+2025-07-28 20:11:38 - SYSTEM_SHUTDOWN: 
+2025-07-28 20:18:47 - SYSTEM_START: 
+2025-07-28 20:19:05 - SYSTEM_SHUTDOWN: 
+2025-07-28 20:56:32 - SYSTEM_START: 
+2025-07-28 20:56:33 - SYSTEM_ERROR: name 'detect_faces_mediapipe' is not defined
+2025-07-28 20:56:33 - SYSTEM_SHUTDOWN: 
+2025-07-28 20:58:43 - SYSTEM_START: 
+2025-07-28 20:59:25 - UNKNOWN_PERSON: With objects: None
+2025-07-28 20:59:30 - UNKNOWN_PERSON: With objects: None
+2025-07-28 20:59:33 - UNKNOWN_PERSON: With objects: None
+2025-07-28 20:59:33 - UNKNOWN_PERSON: With objects: None
+2025-07-28 20:59:46 - SYSTEM_SHUTDOWN: 
+2025-07-28 21:04:17 - SYSTEM_START: 
+2025-07-28 21:05:06 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:05:07 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:05:19 - SYSTEM_SHUTDOWN: 
+2025-07-28 21:09:21 - SYSTEM_START: 
+2025-07-28 21:09:39 - SYSTEM_SHUTDOWN: 
+2025-07-28 21:10:05 - SYSTEM_START: 
+2025-07-28 21:10:16 - SYSTEM_SHUTDOWN: 
+2025-07-28 21:11:03 - SYSTEM_START: 
+2025-07-28 21:11:25 - SYSTEM_SHUTDOWN: 
+2025-07-28 21:15:11 - SYSTEM_START: 
+2025-07-28 21:15:51 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:15:55 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:15:57 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:15:58 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:16:08 - SYSTEM_SHUTDOWN: 
+2025-07-28 21:17:30 - SYSTEM_START: 
+2025-07-28 21:18:08 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:18:12 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:18:15 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:18:16 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:18:27 - SYSTEM_SHUTDOWN: 
+2025-07-28 21:24:30 - SYSTEM_START: 
+2025-07-28 21:24:39 - SYSTEM_SHUTDOWN: 
+2025-07-28 21:27:19 - SYSTEM_START: 
+2025-07-28 21:27:55 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:27:59 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:28:02 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:28:02 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:28:13 - SYSTEM_SHUTDOWN: 
+2025-07-28 21:38:21 - SYSTEM_START: 
+2025-07-28 21:38:23 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 21:38:25 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:38:28 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:38:29 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:38:30 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:38:33 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 21:38:35 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:38:39 - SYSTEM_SHUTDOWN: 
+2025-07-28 21:48:43 - SYSTEM_START: 
+2025-07-28 21:48:55 - SYSTEM_SHUTDOWN: 
+2025-07-28 21:53:02 - SYSTEM_START: 
+2025-07-28 21:53:04 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 21:53:15 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 21:53:25 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 21:53:32 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:33 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:38 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:41 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:42 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:43 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:44 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:45 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:45 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:46 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:47 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:48 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:49 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:50 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:51 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:52 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:53 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 21:53:54 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:54 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:56 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:56 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:53:58 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:54:02 - SYSTEM_SHUTDOWN: 
+2025-07-28 21:56:29 - SYSTEM_START: 
+2025-07-28 21:56:34 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 21:56:37 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:56:42 - UNKNOWN_PERSON: With objects: None
+2025-07-28 21:56:45 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 21:56:49 - SYSTEM_SHUTDOWN: 
+2025-07-28 21:59:09 - SYSTEM_START: 
+2025-07-28 21:59:25 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:00:00 - SYSTEM_START: 
+2025-07-28 22:00:21 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:05:15 - SYSTEM_START: 
+2025-07-28 22:05:40 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:08:25 - SYSTEM_START: 
+2025-07-28 22:08:30 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:08:44 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:08:50 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:16:20 - SYSTEM_START: 
+2025-07-28 22:16:44 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:17:44 - SYSTEM_START: 
+2025-07-28 22:17:47 - SYSTEM_ERROR: name 'detect_faces_mediapipe' is not defined
+2025-07-28 22:17:47 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:19:22 - SYSTEM_START: 
+2025-07-28 22:19:51 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:21:38 - SYSTEM_START: 
+2025-07-28 22:21:42 - SYSTEM_ERROR: name 'detect_faces_mediapipe' is not defined
+2025-07-28 22:21:42 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:23:28 - SYSTEM_START: 
+2025-07-28 22:23:44 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:24:26 - SYSTEM_START: 
+2025-07-28 22:24:56 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:26:25 - SYSTEM_START: 
+2025-07-28 22:26:38 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:26:48 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:26:52 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:28:02 - SYSTEM_START: 
+2025-07-28 22:28:29 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:30:04 - SYSTEM_START: 
+2025-07-28 22:30:19 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:30:58 - SYSTEM_START: 
+2025-07-28 22:31:09 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:31:27 - SYSTEM_START: 
+2025-07-28 22:31:53 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:36:11 - SYSTEM_START: 
+2025-07-28 22:36:28 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:37:41 - SYSTEM_START: 
+2025-07-28 22:37:45 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:37:57 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:38:03 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:38:09 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:38:12 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:41:32 - SYSTEM_START: 
+2025-07-28 22:41:38 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:41:48 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:41:56 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:44:19 - SYSTEM_START: 
+2025-07-28 22:44:20 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:44:31 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:44:38 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:44:41 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:44:41 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:44:42 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:44:44 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:44:49 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:47:20 - SYSTEM_START: 
+2025-07-28 22:47:25 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:47:30 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:47:32 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:47:35 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:47:42 - UNKNOWN_PERSON: With objects: cell phone
+2025-07-28 22:47:43 - UNKNOWN_PERSON: With objects: cell phone
+2025-07-28 22:47:46 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:47:49 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:47:51 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:49:20 - SYSTEM_START: 
+2025-07-28 22:49:35 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:50:26 - SYSTEM_START: 
+2025-07-28 22:50:39 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:52:22 - SYSTEM_START: 
+2025-07-28 22:52:24 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:52:31 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:52:34 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:52:37 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:54:47 - SYSTEM_START: 
+2025-07-28 22:54:53 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:54:55 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:54:56 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:55:03 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:55:14 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:55:15 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:55:15 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:55:16 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:55:19 - SYSTEM_SHUTDOWN: 
+2025-07-28 22:57:35 - SYSTEM_START: 
+2025-07-28 22:57:40 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:57:44 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:57:45 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:57:46 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:57:46 - UNKNOWN_PERSON: With objects: None
+2025-07-28 22:57:55 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 22:57:58 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:00:54 - SYSTEM_START: 
+2025-07-28 23:00:56 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:01:04 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:01:06 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:12:24 - SYSTEM_START: 
+2025-07-28 23:12:25 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:12:26 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:12:33 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:15:36 - SYSTEM_START: 
+2025-07-28 23:15:40 - SYSTEM_ERROR: name 'detect_faces_mediapipe' is not defined
+2025-07-28 23:15:40 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:18:09 - SYSTEM_START: 
+2025-07-28 23:18:10 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:18:31 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:18:34 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:20:10 - SYSTEM_START: 
+2025-07-28 23:20:55 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:20:56 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:20:58 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:21:08 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:24:02 - SYSTEM_START: 
+2025-07-28 23:24:04 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:24:05 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:24:06 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:24:13 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:24:15 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:24:16 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:24:21 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:26:12 - SYSTEM_START: 
+2025-07-28 23:26:13 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:26:15 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:26:17 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:26:20 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:26:24 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:26:34 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:26:45 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:26:50 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:28:19 - SYSTEM_START: 
+2025-07-28 23:28:31 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:28:35 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:32:31 - SYSTEM_START: 
+2025-07-28 23:32:54 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:32:56 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:32:59 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:33:12 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:33:18 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:35:13 - SYSTEM_START: 
+2025-07-28 23:35:57 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:35:59 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:36:00 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:36:06 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:36:52 - SYSTEM_START: 
+2025-07-28 23:37:01 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:38:51 - SYSTEM_START: 
+2025-07-28 23:39:05 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:39:16 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:39:17 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:42:43 - SYSTEM_START: 
+2025-07-28 23:42:45 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:42:45 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:42:47 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:42:57 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:43:03 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:48:01 - SYSTEM_START: 
+2025-07-28 23:48:19 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:50:29 - SYSTEM_START: 
+2025-07-28 23:50:34 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:51:43 - SYSTEM_START: 
+2025-07-28 23:51:46 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:51:47 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:51:57 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:54:01 - SYSTEM_START: 
+2025-07-28 23:54:11 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:54:19 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:54:23 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:54:53 - SYSTEM_START: 
+2025-07-28 23:55:08 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:56:03 - SYSTEM_START: 
+2025-07-28 23:56:13 - SYSTEM_SHUTDOWN: 
+2025-07-28 23:57:29 - SYSTEM_START: 
+2025-07-28 23:57:31 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:57:37 - UNKNOWN_PERSON: With objects: None
+2025-07-28 23:57:41 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-28 23:57:43 - SYSTEM_SHUTDOWN: 

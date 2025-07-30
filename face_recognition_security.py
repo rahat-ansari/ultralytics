@@ -1,0 +1,426 @@
+#!/usr/bin/env python3
+"""
+Advanced Security Monitoring System with Face Recognition
+Author: Security Team
+Version: 2.2
+Description: Real-time security monitoring using YOLO object detection,
+             MediaPipe face detection, and face recognition.
+"""
+
+import cv2
+import numpy as np
+import face_recognition
+import mediapipe as mp
+from ultralytics import YOLO
+import pygame
+import os
+import time
+import logging
+from datetime import datetime
+from pathlib import Path
+from typing import List, Tuple, Optional, Dict, Any
+from dataclasses import dataclass
+from contextlib import contextmanager
+import threading
+import queue
+from concurrent.futures import ThreadPoolExecutor
+import json
+
+# Constants
+DEFAULT_CONFIG_PATH = "config.json"
+DEFAULT_LOG_DIR = "security_logs"
+FACE_RECOGNITION_TOLERANCE = 0.6
+RESIZE_FACTOR = 0.25
+FONT = cv2.FONT_HERSHEY_SIMPLEX
+WHITE = (255, 255, 255)
+YELLOW = (0, 255, 255)
+GREEN = (0, 255, 0)
+RED = (0, 0, 255)
+BLACK = (0, 0, 0)
+
+
+@dataclass
+class DetectionResult:
+    """Data class for detection results."""
+    bbox: Tuple[int, int, int, int]
+    confidence: float
+    class_name: str
+    class_id: int
+
+
+@dataclass
+class FaceResult:
+    """Data class for face recognition results."""
+    bbox: Tuple[int, int, int, int]
+    name: str
+    confidence: float
+    is_known: bool
+
+
+class ConfigManager:
+    """Configuration management class."""
+
+    def __init__(self, config_path: str = DEFAULT_CONFIG_PATH):
+        """Initialize ConfigManager."""
+        self.config_path = Path(config_path)
+        self.config = self._load_config()
+
+    def _load_config(self) -> Dict[str, Any]:
+        """Load configuration from file or create default."""
+        default_config = {
+            "video_source": 0,  # 0 for webcam, path for video file
+            "yolo_model": "yolo11m.pt",
+            "known_faces_dir": "images",
+            "alarm_file": "pols-aagyi-pols.mp3",
+            "log_dir": DEFAULT_LOG_DIR,
+            "face_recognition_interval": 5,
+            "alert_cooldown": 10,
+            "detection_confidence": 0.5,
+            "iou_threshold": 0.5,
+            "face_detection_confidence": 0.5,
+            "objects_of_interest": [
+                "person", "bicycle", "car", "motorcycle", "bus", "truck",
+                "backpack", "umbrella", "handbag", "tie", "suitcase",
+                "cell phone", "laptop", "book", "scissors", "knife"
+            ],
+            "display_settings": {
+                "show_fps": True,
+                "show_objects": True,
+                "font_scale": 0.7,
+                "thickness": 2
+            }
+        }
+
+        if self.config_path.exists():
+            try:
+                with open(self.config_path, 'r') as f:
+                    loaded_config = json.load(f)
+                    default_config.update(loaded_config)
+            except (FileNotFoundError, json.JSONDecodeError) as e:
+                logging.warning(f"Failed to load config: {e}. Using defaults.")
+        else:
+            self._save_config(default_config)
+
+        return default_config
+
+    def _save_config(self, config: Dict[str, Any]) -> None:
+        """Save configuration to file."""
+        try:
+            with open(self.config_path, 'w') as f:
+                json.dump(config, f, indent=4)
+        except IOError as e:
+            logging.error(f"Failed to save config: {e}")
+
+    def get(self, key: str, default: Any = None) -> Any:
+        """Get configuration value."""
+        return self.config.get(key, default)
+
+
+class Logger:
+    """Enhanced logging system."""
+
+    def __init__(self, log_dir: str = DEFAULT_LOG_DIR):
+        """Initialize Logger."""
+        self.log_dir = Path(log_dir)
+        self.log_dir.mkdir(exist_ok=True)
+        self._setup_logging()
+
+    def _setup_logging(self) -> None:
+        """Setup logging configuration."""
+        log_file = self.log_dir / f"security_{datetime.now().strftime('%Y-%m-%d')}.log"
+
+        logging.basicConfig(
+            level=logging.INFO,
+            format='%(asctime)s - %(levelname)s - %(message)s',
+            handlers=[
+                logging.FileHandler(log_file),
+                logging.StreamHandler()
+            ]
+        )
+
+        self.logger = logging.getLogger(__name__)
+
+    def log_event(self, event_type: str, details: str = "") -> None:
+        """Log security events."""
+        self.logger.info(f"{event_type}: {details}")
+
+    def log_error(self, error: str) -> None:
+        """Log errors."""
+        self.logger.error(error)
+
+    def log_warning(self, warning: str) -> None:
+        """Log warnings."""
+        self.logger.warning(warning)
+
+
+class FaceManager:
+    """Face recognition management class."""
+
+    def __init__(self, known_faces_dir: str):
+        """Initialize FaceManager."""
+        self.known_faces_dir = Path(known_faces_dir)
+        self.known_face_encodings: List[np.ndarray] = []
+        self.known_face_names: List[str] = []
+        self.face_recognition_lock = threading.Lock()
+        self._load_known_faces()
+
+    def _load_known_faces(self) -> None:
+        """Load known faces from directory."""
+        if not self.known_faces_dir.exists():
+            logging.warning(f"Known faces directory {self.known_faces_dir} does not exist")
+            return
+
+        supported_formats = {'.jpg', '.jpeg', '.png', '.bmp'}
+
+        for person_dir in self.known_faces_dir.iterdir():
+            if not person_dir.is_dir():
+                continue
+
+            person_name = person_dir.name
+
+            for image_file in person_dir.iterdir():
+                if image_file.suffix.lower() not in supported_formats:
+                    continue
+
+                try:
+                    image = face_recognition.load_image_file(str(image_file))
+                    face_encodings = face_recognition.face_encodings(image)
+
+                    if face_encodings:
+                        self.known_face_encodings.append(face_encodings[0])
+                        self.known_face_names.append(person_name)
+                        logging.info(f"Loaded face: {person_name} from {image_file.name}")
+                    else:
+                        logging.warning(f"No face found in {image_file}")
+
+                except Exception as e:
+                    logging.error(f"Error loading {image_file}: {e}")
+
+        if self.known_face_encodings:
+            logging.info(f"Successfully loaded {len(self.known_face_encodings)} face encodings "
+                         f"for {len(set(self.known_face_names))} people")
+        else:
+            logging.warning("No face encodings loaded. Face recognition will not work.")
+
+    def recognize_face(self, face_encoding: np.ndarray) -> Tuple[str, float]:
+        """Recognize a face encoding."""
+        if not self.known_face_encodings:
+            return "Unknown", 0.0
+
+        with self.face_recognition_lock:
+            matches = face_recognition.compare_faces(
+                self.known_face_encodings, face_encoding, tolerance=FACE_RECOGNITION_TOLERANCE
+            )
+
+            if any(matches):
+                face_distances = face_recognition.face_distance(
+                    self.known_face_encodings, face_encoding
+                )
+                best_match_index = np.argmin(face_distances)
+
+                if matches[best_match_index]:
+                    confidence = 1.0 - face_distances[best_match_index]
+                    return self.known_face_names[best_match_index], confidence
+
+        return "Unknown", 0.0
+
+
+class MediaPipeFaceDetector:
+    """MediaPipe face detection wrapper."""
+
+    def __init__(self, min_detection_confidence: float = 0.5):
+        """Initialize MediaPipeFaceDetector."""
+        self.min_detection_confidence = min_detection_confidence
+        self.mp_face_detection = mp.solutions.face_detection
+
+    @contextmanager
+    def get_detector(self):
+        """Context manager for face detection."""
+        detector = self.mp_face_detection.FaceDetection(
+            model_selection=0,
+            min_detection_confidence=self.min_detection_confidence
+        )
+        try:
+            yield detector
+        finally:
+            detector.close()
+
+    def detect_faces(self, frame: np.ndarray) -> List[Tuple[int, int, int, int]]:
+        """Detect faces in frame and return bounding boxes."""
+        face_boxes = []
+
+        with self.get_detector() as detector:
+            rgb_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+            results = detector.process(rgb_frame)
+
+            if results.detections:
+                h, w, _ = frame.shape
+                for detection in results.detections:
+                    bbox = detection.location_data.relative_bounding_box
+                    x = max(0, int(bbox.xmin * w))
+                    y = max(0, int(bbox.ymin * h))
+                    width = min(w - x, int(bbox.width * w))
+                    height = min(h - y, int(bbox.height * h))
+
+                    if width > 0 and height > 0:
+                        face_boxes.append((x, y, width, height))
+
+        return face_boxes
+
+
+class SecurityMonitor:
+    """Main security monitoring class."""
+
+    def __init__(self, config_path: str = DEFAULT_CONFIG_PATH):
+        """Initialize SecurityMonitor."""
+        self.config = ConfigManager(config_path)
+        self.logger = Logger(self.config.get("log_dir"))
+        self.face_manager = FaceManager(self.config.get("known_faces_dir"))
+        self.face_detector = MediaPipeFaceDetector(
+            self.config.get("face_detection_confidence")
+        )
+
+        # Initialize models
+        self.yolo_model = self._load_yolo_model()
+
+        # Initialize pygame for audio
+        self._setup_audio()
+
+        # Performance tracking
+        self.frame_count = 0
+        self.last_alert_time = 0
+        self.fps_counter = 0
+        self.fps_start_time = time.time()
+
+        # Threading
+        self.frame_queue = queue.Queue(maxsize=10)
+        self.result_queue = queue.Queue(maxsize=10)
+        self.executor = ThreadPoolExecutor(max_workers=2)
+
+        self.logger.log_event("SYSTEM_INIT", "Security monitor initialized")
+
+    def _load_yolo_model(self) -> YOLO:
+        """Load YOLO model."""
+        try:
+            model_path = self.config.get("yolo_model")
+            model = YOLO(model_path)
+            self.logger.log_event("MODEL_LOADED", f"YOLO model loaded: {model_path}")
+            return model
+        except Exception as e:
+            self.logger.log_error(f"Failed to load YOLO model: {e}")
+            raise
+
+    def _setup_audio(self) -> None:
+        """Setup audio system."""
+        try:
+            pygame.mixer.init()
+            alarm_file = self.config.get("alarm_file")
+
+            if Path(alarm_file).exists():
+                pygame.mixer.music.load(alarm_file)
+                self.logger.log_event("AUDIO_INIT", f"Alarm loaded: {alarm_file}")
+            else:
+                self.logger.log_warning(f"Alarm file not found: {alarm_file}")
+        except Exception as e:
+            self.logger.log_error(f"Failed to initialize audio: {e}")
+
+    def _detect_objects(self, frame: np.ndarray) -> List[DetectionResult]:
+        """Detect objects using YOLO."""
+        try:
+            results = self.yolo_model(
+                frame,
+                conf=self.config.get("detection_confidence"),
+                iou=self.config.get("iou_threshold"),
+                verbose=False
+            )
+
+            detections = []
+            for result in results:
+                if result.boxes is not None:
+                    boxes = result.boxes.xyxy.cpu().numpy()
+                    confidences = result.boxes.conf.cpu().numpy()
+                    classes = result.boxes.cls.cpu().numpy()
+
+                    for box, conf, cls in zip(boxes, confidences, classes):
+                        x1, y1, x2, y2 = map(int, box)
+                        class_name = result.names[int(cls)]
+
+                        detections.append(DetectionResult(
+                            bbox=(x1, y1, x2, y2),
+                            confidence=float(conf),
+                            class_name=class_name,
+                            class_id=int(cls)
+                        ))
+
+            return detections
+
+        except Exception as e:
+            self.logger.log_error(f"Object detection failed: {e}")
+            return []
+
+    def _process_face_recognition(self, person_roi: np.ndarray) -> List[FaceResult]:
+        """Process face recognition on person ROI."""
+        if person_roi.size == 0:
+            return []
+
+        try:
+            # Resize for faster processing
+            small_frame = cv2.resize(person_roi, (0, 0), fx=RESIZE_FACTOR, fy=RESIZE_FACTOR)
+            rgb_frame = cv2.cvtColor(small_frame, cv2.COLOR_BGR2RGB)
+
+            # Get face locations and encodings
+            face_locations = face_recognition.face_locations(rgb_frame)
+
+            if not face_locations:
+                return []
+
+            face_encodings = face_recognition.face_encodings(rgb_frame, face_locations)
+            face_results = []
+
+            for (top, right, bottom, left), face_encoding in zip(face_locations, face_encodings):
+                # Scale back to original size
+                top = int(top / RESIZE_FACTOR)
+                right = int(right / RESIZE_FACTOR)
+                bottom = int(bottom / RESIZE_FACTOR)
+                left = int(left / RESIZE_FACTOR)
+
+                # Recognize face
+                name, confidence = self.face_manager.recognize_face(face_encoding)
+
+                face_results.append(FaceResult(
+                    bbox=(left, top, right, bottom),
+                    name=name,
+                    confidence=confidence,
+                    is_known=(name != "Unknown")
+                ))
+
+            return face_results
+
+        except Exception as e:
+            self.logger.log_error(f"Face recognition failed: {e}")
+            return []
+
+    def _draw_detections(self, frame: np.ndarray, detections: List[DetectionResult],
+                         face_results: List[FaceResult]) -> Tuple[np.ndarray, List[str]]:
+        """Draw all detections on frame."""
+        result_frame = frame.copy()
+        objects_of_interest = self.config.get("objects_of_interest")
+        display_settings = self.config.get("display_settings")
+        font_scale = display_settings["font_scale"]
+        thickness = display_settings["thickness"]
+
+        detected_objects = []
+
+        # Draw object detections
+        for detection in detections:
+            if detection.class_name in objects_of_interest:
+                x1, y1, x2, y2 = detection.bbox
+
+                if detection.class_name != "person":
+                    detected_objects.append(detection.class_name)
+                    # Draw object bounding box in yellow
+                    cv2.rectangle(result_frame, (x1, y1), (x2, y2), YELLOW, thickness) # Fix: Changed to YELLOW for non-person objects
+
+                    # Draw object label
+                    label = f"{detection.class_name}: {detection.confidence:.2f}"
+                    label_size = cv2

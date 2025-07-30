@@ -4,7 +4,7 @@ import numpy as np
 
 
 # Load a sample picture and learn how to recognize it.
-obama_image = face_recognition.load_image_file("Play D:/Projects/ultralytics/Test-Video-And-Images/barackObama.jpg")
+obama_image = face_recognition.load_image_file("Test-Video-And-Images/barackObama.jpg")
 obama_face_encoding = face_recognition.face_encodings(obama_image)[0]
 
 # Load a second sample picture and learn how to recognize it.
