@@ -1,0 +1,48 @@
+2025-07-05 15:47:20 - SYSTEM_START: 
+2025-07-05 15:47:27 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-05 15:47:27 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-05 15:47:50 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-05 15:47:50 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-05 15:48:05 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-05 15:48:05 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-05 15:49:15 - SYSTEM_SHUTDOWN: 
+2025-07-05 21:18:16 - SYSTEM_START: 
+2025-07-05 21:25:19 - SYSTEM_START: 
+2025-07-05 21:25:24 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-05 21:25:24 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-05 21:25:34 - ALERT_TRIGGERED: Person: Jhon, Objects: None
+2025-07-05 21:25:34 - KNOWN_PERSON: Detected: Jhon with objects: None
+2025-07-05 21:25:35 - UNKNOWN_PERSON: With objects: None
+2025-07-05 21:26:17 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-05 21:26:17 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-05 21:28:04 - SYSTEM_START: 
+2025-07-05 21:29:19 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-05 21:29:19 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-05 21:29:30 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-05 21:29:30 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-05 21:29:36 - SYSTEM_SHUTDOWN: 
+2025-07-05 21:35:15 - SYSTEM_START: 
+2025-07-05 21:35:17 - SYSTEM_ERROR: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'putText'
+> Overload resolution failed:
+>  - Can't parse 'org'. Input argument doesn't provide sequence protocol
+>  - Can't parse 'org'. Input argument doesn't provide sequence protocol
+
+2025-07-05 21:35:17 - SYSTEM_SHUTDOWN: 
+2025-07-05 21:38:45 - SYSTEM_START: 
+2025-07-05 21:38:46 - SYSTEM_ERROR: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'putText'
+> Overload resolution failed:
+>  - Can't parse 'org'. Input argument doesn't provide sequence protocol
+>  - Can't parse 'org'. Input argument doesn't provide sequence protocol
+
+2025-07-05 21:38:46 - SYSTEM_SHUTDOWN: 
+2025-07-05 21:41:05 - SYSTEM_START: 
+2025-07-05 21:42:36 - SYSTEM_SHUTDOWN: 
+2025-07-05 22:28:42 - SYSTEM_START: 
+2025-07-05 22:29:17 - SYSTEM_SHUTDOWN: 
+2025-07-05 22:32:09 - SYSTEM_START: 
+2025-07-05 22:32:40 - SYSTEM_SHUTDOWN: 
+2025-07-05 22:35:51 - SYSTEM_START: 
+2025-07-05 22:36:18 - SYSTEM_SHUTDOWN: 
+2025-07-05 22:58:21 - SYSTEM_START: 
+2025-07-05 23:14:59 - SYSTEM_START: 
+2025-07-05 23:17:05 - SYSTEM_SHUTDOWN: 

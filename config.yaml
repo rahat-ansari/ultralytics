@@ -1,0 +1,90 @@
+# Security Monitor Configuration File
+# This file contains all configuration options for the Security Monitor system
+
+# AI Model Configuration
+model:
+  yolo_model_path: "yolo11m.pt"           # Path to YOLO model file
+  confidence_threshold: 0.5               # Minimum confidence for object detection (0.0-1.0)
+  iou_threshold: 0.5                      # IoU threshold for Non-Maximum Suppression (0.0-1.0)
+  face_recognition_tolerance: 0.6         # Face recognition tolerance (lower = more strict)
+  face_recognition_model: "hog"           # Face detection model: "hog" (faster) or "cnn" (more accurate)
+  mediapipe_confidence: 0.5               # MediaPipe face detection confidence threshold
+
+# Performance Configuration
+performance:
+  face_recognition_interval: 5            # Process face recognition every N frames
+  max_detection_history: 10               # Maximum number of detection records to keep
+  frame_skip_threshold: 0.8               # Skip frames if processing time > threshold
+  max_fps: 30                             # Maximum target FPS
+  processing_threads: 2                   # Number of processing threads
+  enable_gpu: true                        # Enable GPU acceleration if available
+  memory_limit_mb: 1024                   # Memory limit in MB
+
+# Video Source Configuration
+video:
+  default_source: "webcam"                # Default video source to use
+  sources:                                # Available video sources
+    webcam: 0                             # Webcam device index
+    video1: "./Test-Video-And-Images/istockphoto-2174886250-640_adpp_is.mp4"
+    video2: "./Test-Video-And-Images/istockphoto-1456638008-640_adpp_is.mp4"
+  buffer_size: 1                          # Video capture buffer size
+  target_fps: 30                          # Target FPS for video capture
+  resolution: null                        # [width, height] or null for auto
+
+# Alert System Configuration
+alerts:
+  cooldown_seconds: 10                    # Minimum seconds between alerts
+  audio_enabled: true                     # Enable audio alerts
+  email_enabled: false                    # Enable email alerts
+  audio_file: "pols-aagyi-pols.mp3"      # Path to audio alert file
+  email_smtp_server: "smtp.gmail.com"    # SMTP server address
+  email_smtp_port: 587                    # SMTP server port
+  email_from: ""                          # Sender email address
+  email_to: ""                            # Recipient email address
+  email_password: ""                      # Email password or app password
+
+# Directory Configuration
+directories:
+  known_faces_dir: "images"               # Directory containing known face images
+  log_dir: "security_logs"                # Directory for log files
+  output_dir: "output"                    # Directory for output files
+  temp_dir: "temp"                        # Temporary files directory
+  models_dir: "models"                    # AI models directory
+
+# Logging Configuration
+logging:
+  level: "INFO"                           # Log level: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  console_enabled: true                   # Enable console logging
+  file_enabled: true                      # Enable file logging
+  max_file_size_mb: 10                    # Maximum log file size in MB
+  backup_count: 5                         # Number of backup log files to keep
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+# Objects of Interest (COCO dataset classes)
+objects_of_interest:
+  - "person"
+  - "bicycle"
+  - "car"
+  - "motorcycle"
+  - "bus"
+  - "truck"
+  - "backpack"
+  - "umbrella"
+  - "handbag"
+  - "tie"
+  - "suitcase"
+  - "cell phone"
+  - "laptop"
+  - "book"
+  - "scissors"
+  - "knife"
+
+# Color Configuration (BGR format)
+colors:
+  known_face: [0, 255, 0]                 # Green for known faces
+  unknown_face: [0, 0, 255]               # Red for unknown faces
+  person_no_face: [255, 0, 0]             # Blue for persons without detected faces
+  objects: [0, 255, 255]                  # Yellow for detected objects
+  text_bg: [0, 0, 0]                      # Black for text background
+  text: [255, 255, 255]                   # White for text
+  fps: [0, 255, 0]                        # Green for FPS display

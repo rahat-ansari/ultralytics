@@ -1,0 +1,503 @@
+2025-07-04 00:17:56 - SYSTEM_START: 
+2025-07-04 00:17:56 - SYSTEM_ERROR: name 'draw_detections' is not defined
+2025-07-04 00:17:56 - SYSTEM_SHUTDOWN: 
+2025-07-04 00:25:01 - SYSTEM_START: 
+2025-07-04 00:25:01 - SYSTEM_ERROR: name 'yolo_results' is not defined
+2025-07-04 00:25:01 - SYSTEM_SHUTDOWN: 
+2025-07-04 00:41:04 - SYSTEM_START: 
+2025-07-04 00:41:04 - SYSTEM_ERROR: object of type 'YOLO' has no len()
+2025-07-04 00:41:04 - SYSTEM_SHUTDOWN: 
+2025-07-04 00:54:31 - SYSTEM_START: 
+2025-07-04 00:54:31 - SYSTEM_ERROR: object of type 'YOLO' has no len()
+2025-07-04 00:54:31 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:02:10 - SYSTEM_START: 
+2025-07-04 01:02:39 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:03:24 - SYSTEM_START: 
+2025-07-04 01:03:41 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:04:31 - SYSTEM_START: 
+2025-07-04 01:04:37 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:05:29 - SYSTEM_START: 
+2025-07-04 01:05:38 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:06:13 - SYSTEM_START: 
+2025-07-04 01:06:19 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:06:53 - SYSTEM_START: 
+2025-07-04 01:06:59 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:18:34 - SYSTEM_START: 
+2025-07-04 01:18:40 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:20:37 - SYSTEM_START: 
+2025-07-04 01:20:44 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:23:12 - SYSTEM_START: 
+2025-07-04 01:23:18 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:25:42 - SYSTEM_START: 
+2025-07-04 01:25:48 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:28:16 - SYSTEM_START: 
+2025-07-04 01:28:22 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:29:03 - SYSTEM_START: 
+2025-07-04 01:29:09 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:35:11 - SYSTEM_START: 
+2025-07-04 01:35:17 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:39:11 - SYSTEM_START: 
+2025-07-04 01:39:37 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:51:51 - SYSTEM_START: 
+2025-07-04 01:52:16 - SYSTEM_SHUTDOWN: 
+2025-07-04 01:52:59 - SYSTEM_START: 
+2025-07-04 01:53:13 - SYSTEM_SHUTDOWN: 
+2025-07-04 02:04:50 - SYSTEM_START: 
+2025-07-04 02:05:14 - SYSTEM_SHUTDOWN: 
+2025-07-04 02:16:40 - SYSTEM_START: 
+2025-07-04 02:17:41 - SYSTEM_SHUTDOWN: 
+2025-07-04 02:36:23 - SYSTEM_START: 
+2025-07-04 02:43:59 - SYSTEM_START: 
+2025-07-04 02:44:06 - SYSTEM_ERROR: 'list' object has no attribute 'boxes'
+2025-07-04 02:44:06 - SYSTEM_SHUTDOWN: 
+2025-07-04 02:47:46 - SYSTEM_START: 
+2025-07-04 02:48:06 - SYSTEM_ERROR: 'list' object has no attribute 'boxes'
+2025-07-04 02:48:06 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:01:27 - SYSTEM_START: 
+2025-07-04 03:01:42 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:07:10 - SYSTEM_START: 
+2025-07-04 03:07:28 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:09:39 - SYSTEM_START: 
+2025-07-04 03:09:55 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:13:24 - SYSTEM_START: 
+2025-07-04 03:13:38 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:22:10 - SYSTEM_START: 
+2025-07-04 03:22:21 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:22:22 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:22:22 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:22:24 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:23:41 - SYSTEM_START: 
+2025-07-04 03:23:52 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:23:53 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:23:53 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:23:55 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:25:23 - SYSTEM_START: 
+2025-07-04 03:25:35 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:25:36 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:25:36 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:25:38 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:29:17 - SYSTEM_START: 
+2025-07-04 03:29:28 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:29:29 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:29:29 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:29:31 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:30:59 - SYSTEM_START: 
+2025-07-04 03:31:03 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:35:49 - SYSTEM_START: 
+2025-07-04 03:36:32 - SYSTEM_START: 
+2025-07-04 03:36:47 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:36:48 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:36:50 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:38:22 - SYSTEM_START: 
+2025-07-04 03:38:32 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:38:33 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:38:34 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:39:29 - SYSTEM_START: 
+2025-07-04 03:39:42 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:39:42 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:39:44 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:41:47 - SYSTEM_START: 
+2025-07-04 03:41:56 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:41:57 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:41:59 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:44:19 - SYSTEM_START: 
+2025-07-04 03:44:29 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:44:29 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:44:31 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:48:58 - SYSTEM_START: 
+2025-07-04 03:48:58 - SYSTEM_ERROR: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'putText'
+> Overload resolution failed:
+>  - img is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'img'
+
+2025-07-04 03:48:59 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:50:56 - SYSTEM_START: 
+2025-07-04 03:50:59 - SYSTEM_ERROR: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2025-07-04 03:50:59 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:53:13 - SYSTEM_START: 
+2025-07-04 03:53:25 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:53:26 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:53:26 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:53:28 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:54:36 - SYSTEM_START: 
+2025-07-04 03:54:47 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:54:48 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:54:49 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:54:51 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:56:11 - SYSTEM_START: 
+2025-07-04 03:56:11 - SYSTEM_ERROR: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2025-07-04 03:56:11 - SYSTEM_SHUTDOWN: 
+2025-07-04 03:59:07 - SYSTEM_START: 
+2025-07-04 03:59:17 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:59:17 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:59:18 - UNKNOWN_PERSON: With objects: None
+2025-07-04 03:59:19 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:01:36 - SYSTEM_START: 
+2025-07-04 04:01:42 - UNKNOWN_PERSON: With objects: None
+2025-07-04 04:01:42 - UNKNOWN_PERSON: With objects: None
+2025-07-04 04:01:43 - UNKNOWN_PERSON: With objects: None
+2025-07-04 04:01:44 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:06:39 - SYSTEM_START: 
+2025-07-04 04:06:44 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:07:37 - SYSTEM_START: 
+2025-07-04 04:07:42 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:11:48 - SYSTEM_START: 
+2025-07-04 04:11:52 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:14:32 - SYSTEM_START: 
+2025-07-04 04:14:38 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:17:39 - SYSTEM_START: 
+2025-07-04 04:17:45 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:34:46 - SYSTEM_START: 
+2025-07-04 04:34:49 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:40:09 - SYSTEM_START: 
+2025-07-04 04:40:12 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:41:13 - SYSTEM_START: 
+2025-07-04 04:41:17 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:42:32 - SYSTEM_START: 
+2025-07-04 04:42:35 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:45:15 - SYSTEM_START: 
+2025-07-04 04:45:21 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:48:20 - SYSTEM_START: 
+2025-07-04 04:48:26 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:51:41 - SYSTEM_START: 
+2025-07-04 04:51:44 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:54:19 - SYSTEM_START: 
+2025-07-04 04:54:23 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:55:40 - SYSTEM_START: 
+2025-07-04 04:55:44 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:57:49 - SYSTEM_START: 
+2025-07-04 04:57:55 - SYSTEM_SHUTDOWN: 
+2025-07-04 04:59:45 - SYSTEM_START: 
+2025-07-04 04:59:53 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:04:39 - SYSTEM_START: 
+2025-07-04 05:04:43 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:10:24 - SYSTEM_START: 
+2025-07-04 05:10:28 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:11:56 - SYSTEM_START: 
+2025-07-04 05:12:03 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:13:15 - SYSTEM_START: 
+2025-07-04 05:13:21 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:15:52 - SYSTEM_START: 
+2025-07-04 05:15:58 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:17:49 - SYSTEM_START: 
+2025-07-04 05:17:54 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:19:13 - SYSTEM_START: 
+2025-07-04 05:19:16 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:20:44 - SYSTEM_START: 
+2025-07-04 05:20:51 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:21:59 - SYSTEM_START: 
+2025-07-04 05:22:12 - UNKNOWN_PERSON: With objects: None
+2025-07-04 05:22:12 - UNKNOWN_PERSON: With objects: None
+2025-07-04 05:22:13 - UNKNOWN_PERSON: With objects: None
+2025-07-04 05:22:15 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:24:46 - SYSTEM_START: 
+2025-07-04 05:24:58 - UNKNOWN_PERSON: With objects: None
+2025-07-04 05:24:59 - UNKNOWN_PERSON: With objects: None
+2025-07-04 05:24:59 - UNKNOWN_PERSON: With objects: None
+2025-07-04 05:25:01 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:27:11 - SYSTEM_START: 
+2025-07-04 05:27:22 - UNKNOWN_PERSON: With objects: None
+2025-07-04 05:27:23 - UNKNOWN_PERSON: With objects: None
+2025-07-04 05:27:24 - UNKNOWN_PERSON: With objects: None
+2025-07-04 05:27:26 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:41:04 - SYSTEM_START: 
+2025-07-04 05:41:16 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:42:05 - SYSTEM_START: 
+2025-07-04 05:42:17 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:43:56 - SYSTEM_START: 
+2025-07-04 05:44:18 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:47:01 - SYSTEM_START: 
+2025-07-04 05:47:23 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:52:29 - SYSTEM_START: 
+2025-07-04 05:52:52 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:54:48 - SYSTEM_START: 
+2025-07-04 05:55:11 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:57:26 - SYSTEM_START: 
+2025-07-04 05:57:32 - SYSTEM_SHUTDOWN: 
+2025-07-04 05:59:00 - SYSTEM_START: 
+2025-07-04 05:59:22 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:01:15 - SYSTEM_START: 
+2025-07-04 06:01:21 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:02:42 - SYSTEM_START: 
+2025-07-04 06:03:03 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:10:03 - SYSTEM_START: 
+2025-07-04 06:10:31 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:12:59 - SYSTEM_START: 
+2025-07-04 06:13:26 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:16:59 - SYSTEM_START: 
+2025-07-04 06:17:33 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:21:56 - SYSTEM_START: 
+2025-07-04 06:22:26 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:23:07 - SYSTEM_START: 
+2025-07-04 06:23:34 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:24:55 - SYSTEM_START: 
+2025-07-04 06:25:23 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:26:18 - SYSTEM_START: 
+2025-07-04 06:26:45 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:29:02 - SYSTEM_START: 
+2025-07-04 06:29:30 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:30:14 - SYSTEM_START: 
+2025-07-04 06:30:41 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:32:37 - SYSTEM_START: 
+2025-07-04 06:33:04 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:34:17 - SYSTEM_START: 
+2025-07-04 06:34:43 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:35:46 - SYSTEM_START: 
+2025-07-04 06:36:16 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:38:58 - SYSTEM_START: 
+2025-07-04 06:39:25 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:42:05 - SYSTEM_START: 
+2025-07-04 06:42:17 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:47:11 - SYSTEM_START: 
+2025-07-04 06:47:23 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:48:46 - SYSTEM_START: 
+2025-07-04 06:48:46 - SYSTEM_ERROR: name 'Annotator' is not defined
+2025-07-04 06:48:46 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:49:34 - SYSTEM_START: 
+2025-07-04 06:49:35 - SYSTEM_ERROR: name 'Annotator' is not defined
+2025-07-04 06:49:35 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:51:27 - SYSTEM_START: 
+2025-07-04 06:53:37 - SYSTEM_START: 
+2025-07-04 06:54:08 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:55:32 - SYSTEM_START: 
+2025-07-04 06:55:54 - SYSTEM_SHUTDOWN: 
+2025-07-04 06:57:54 - SYSTEM_START: 
+2025-07-04 06:57:54 - SYSTEM_ERROR: '[31m[1mpersist[0m' is not a valid YOLO argument. 
+
+    Arguments received: ['yolo', '--f=c:\\Users\\Rahat\\AppData\\Roaming\\jupyter\\runtime\\kernel-v3e2ac43237f2280a97209d7ab235fe5102582b663.json']. Ultralytics 'yolo' commands use the following syntax:
+
+        yolo TASK MODE ARGS
+
+        Where   TASK (optional) is one of frozenset({'pose', 'segment', 'classify', 'detect', 'obb'})
+                MODE (required) is one of frozenset({'benchmark', 'val', 'export', 'train', 'track', 'predict'})
+                ARGS (optional) are any number of custom 'arg=value' pairs like 'imgsz=320' that override defaults.
+                    See all ARGS at https://docs.ultralytics.com/usage/cfg or with 'yolo cfg'
+
+    1. Train a detection model for 10 epochs with an initial learning_rate of 0.01
+        yolo train data=coco8.yaml model=yolo11n.pt epochs=10 lr0=0.01
+
+    2. Predict a YouTube video using a pretrained segmentation model at image size 320:
+        yolo predict model=yolo11n-seg.pt source='https://youtu.be/LNwODJXcvt4' imgsz=320
+
+    3. Val a pretrained detection model at batch-size 1 and image size 640:
+        yolo val model=yolo11n.pt data=coco8.yaml batch=1 imgsz=640
+
+    4. Export a YOLO11n classification model to ONNX format at image size 224 by 128 (no TASK required)
+        yolo export model=yolo11n-cls.pt format=onnx imgsz=224,128
+
+    5. Ultralytics solutions usage
+        yolo solutions count or in ['crop', 'blur', 'workout', 'heatmap', 'isegment', 'visioneye', 'speed', 'queue', 'analytics', 'inference', 'trackzone'] source="path/to/video.mp4"
+
+    6. Run special commands:
+        yolo help
+        yolo checks
+        yolo version
+        yolo settings
+        yolo copy-cfg
+        yolo cfg
+        yolo solutions help
+
+    Docs: https://docs.ultralytics.com
+    Solutions: https://docs.ultralytics.com/solutions/
+    Community: https://community.ultralytics.com
+    GitHub: https://github.com/ultralytics/ultralytics
+    
+2025-07-04 06:57:54 - SYSTEM_SHUTDOWN: 
+2025-07-04 07:01:37 - SYSTEM_START: 
+2025-07-04 07:02:04 - SYSTEM_SHUTDOWN: 
+2025-07-04 07:03:45 - SYSTEM_START: 
+2025-07-04 07:04:12 - SYSTEM_SHUTDOWN: 
+2025-07-04 07:04:50 - SYSTEM_START: 
+2025-07-04 07:05:17 - SYSTEM_SHUTDOWN: 
+2025-07-04 07:07:00 - SYSTEM_START: 
+2025-07-04 07:13:34 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 07:13:34 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 07:14:49 - ALERT_TRIGGERED: Person: Bappi, Objects: None
+2025-07-04 07:14:49 - KNOWN_PERSON: Detected: Bappi with objects: None
+2025-07-04 07:15:29 - ALERT_TRIGGERED: Person: Bappi, Objects: None
+2025-07-04 07:15:29 - KNOWN_PERSON: Detected: Bappi with objects: None
+2025-07-04 07:15:39 - ALERT_TRIGGERED: Person: Bappi, Objects: None
+2025-07-04 07:15:39 - KNOWN_PERSON: Detected: Bappi with objects: None
+2025-07-04 07:16:02 - SYSTEM_SHUTDOWN: 
+2025-07-04 07:17:20 - SYSTEM_START: 
+2025-07-04 07:18:03 - SYSTEM_SHUTDOWN: 
+2025-07-04 07:19:42 - SYSTEM_START: 
+2025-07-04 07:21:32 - SYSTEM_START: 
+2025-07-04 07:22:54 - SYSTEM_START: 
+2025-07-04 07:23:25 - SYSTEM_SHUTDOWN: 
+2025-07-04 07:25:10 - SYSTEM_START: 
+2025-07-04 07:25:52 - UNKNOWN_PERSON: With objects: None
+2025-07-04 07:25:55 - UNKNOWN_PERSON: With objects: None
+2025-07-04 07:26:09 - SYSTEM_SHUTDOWN: 
+2025-07-04 07:27:44 - SYSTEM_START: 
+2025-07-04 07:27:44 - SYSTEM_SHUTDOWN: 
+2025-07-04 07:29:01 - SYSTEM_START: 
+2025-07-04 07:31:29 - SYSTEM_START: 
+2025-07-04 07:35:15 - SYSTEM_START: 
+2025-07-04 07:35:15 - SYSTEM_SHUTDOWN: 
+2025-07-04 07:37:41 - SYSTEM_START: 
+2025-07-04 07:37:41 - SYSTEM_SHUTDOWN: 
+2025-07-04 07:39:06 - SYSTEM_START: 
+2025-07-04 07:39:38 - SYSTEM_SHUTDOWN: 
+2025-07-04 07:49:51 - SYSTEM_START: 
+2025-07-04 07:51:23 - SYSTEM_START: 
+2025-07-04 07:53:07 - UNKNOWN_PERSON: With objects: None
+2025-07-04 07:53:21 - UNKNOWN_PERSON: With objects: None
+2025-07-04 07:53:23 - UNKNOWN_PERSON: With objects: None
+2025-07-04 07:53:23 - ALERT_TRIGGERED: Person: Bappi, Objects: None
+2025-07-04 07:53:23 - KNOWN_PERSON: Detected: Bappi with objects: None
+2025-07-04 07:53:45 - SYSTEM_SHUTDOWN: 
+2025-07-04 07:54:40 - SYSTEM_START: 
+2025-07-04 07:56:23 - UNKNOWN_PERSON: With objects: None
+2025-07-04 07:56:37 - UNKNOWN_PERSON: With objects: None
+2025-07-04 07:56:39 - UNKNOWN_PERSON: With objects: None
+2025-07-04 07:56:39 - ALERT_TRIGGERED: Person: Bappi, Objects: None
+2025-07-04 07:56:39 - KNOWN_PERSON: Detected: Bappi with objects: None
+2025-07-04 07:57:01 - SYSTEM_SHUTDOWN: 
+2025-07-04 07:58:25 - SYSTEM_START: 
+2025-07-04 08:00:07 - SYSTEM_START: 
+2025-07-04 08:00:47 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:03:16 - SYSTEM_START: 
+2025-07-04 08:03:54 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:04:00 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:04:11 - SYSTEM_SHUTDOWN: 
+2025-07-04 08:06:21 - SYSTEM_START: 
+2025-07-04 08:07:02 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:07:05 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:07:17 - SYSTEM_SHUTDOWN: 
+2025-07-04 08:09:50 - SYSTEM_START: 
+2025-07-04 08:10:35 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:10:37 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:10:49 - SYSTEM_SHUTDOWN: 
+2025-07-04 08:13:58 - SYSTEM_START: 
+2025-07-04 08:13:58 - SYSTEM_ERROR: '[31m[1mpersist[0m' is not a valid YOLO argument. 
+
+    Arguments received: ['yolo', '--f=c:\\Users\\Rahat\\AppData\\Roaming\\jupyter\\runtime\\kernel-v3bb0762eaf2e62622f79ad538e8e196d93d63f1de.json']. Ultralytics 'yolo' commands use the following syntax:
+
+        yolo TASK MODE ARGS
+
+        Where   TASK (optional) is one of frozenset({'classify', 'detect', 'pose', 'obb', 'segment'})
+                MODE (required) is one of frozenset({'train', 'export', 'benchmark', 'val', 'predict', 'track'})
+                ARGS (optional) are any number of custom 'arg=value' pairs like 'imgsz=320' that override defaults.
+                    See all ARGS at https://docs.ultralytics.com/usage/cfg or with 'yolo cfg'
+
+    1. Train a detection model for 10 epochs with an initial learning_rate of 0.01
+        yolo train data=coco8.yaml model=yolo11n.pt epochs=10 lr0=0.01
+
+    2. Predict a YouTube video using a pretrained segmentation model at image size 320:
+        yolo predict model=yolo11n-seg.pt source='https://youtu.be/LNwODJXcvt4' imgsz=320
+
+    3. Val a pretrained detection model at batch-size 1 and image size 640:
+        yolo val model=yolo11n.pt data=coco8.yaml batch=1 imgsz=640
+
+    4. Export a YOLO11n classification model to ONNX format at image size 224 by 128 (no TASK required)
+        yolo export model=yolo11n-cls.pt format=onnx imgsz=224,128
+
+    5. Ultralytics solutions usage
+        yolo solutions count or in ['crop', 'blur', 'workout', 'heatmap', 'isegment', 'visioneye', 'speed', 'queue', 'analytics', 'inference', 'trackzone'] source="path/to/video.mp4"
+
+    6. Run special commands:
+        yolo help
+        yolo checks
+        yolo version
+        yolo settings
+        yolo copy-cfg
+        yolo cfg
+        yolo solutions help
+
+    Docs: https://docs.ultralytics.com
+    Solutions: https://docs.ultralytics.com/solutions/
+    Community: https://community.ultralytics.com
+    GitHub: https://github.com/ultralytics/ultralytics
+    
+2025-07-04 08:13:58 - SYSTEM_SHUTDOWN: 
+2025-07-04 08:14:54 - SYSTEM_START: 
+2025-07-04 08:15:31 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:15:32 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:15:42 - SYSTEM_SHUTDOWN: 
+2025-07-04 08:16:52 - SYSTEM_START: 
+2025-07-04 08:17:04 - SYSTEM_SHUTDOWN: 
+2025-07-04 08:17:36 - SYSTEM_START: 
+2025-07-04 08:17:46 - SYSTEM_SHUTDOWN: 
+2025-07-04 08:18:54 - SYSTEM_START: 
+2025-07-04 08:19:26 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:19:27 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:19:35 - SYSTEM_SHUTDOWN: 
+2025-07-04 08:22:18 - SYSTEM_START: 
+2025-07-04 08:22:50 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:22:51 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:23:00 - SYSTEM_SHUTDOWN: 
+2025-07-04 08:24:29 - SYSTEM_START: 
+2025-07-04 08:25:39 - ALERT_TRIGGERED: Person: rabita, Objects: None
+2025-07-04 08:25:39 - KNOWN_PERSON: Detected: rabita with objects: None
+2025-07-04 08:26:24 - ALERT_TRIGGERED: Person: Bappi, Objects: None
+2025-07-04 08:26:24 - KNOWN_PERSON: Detected: Bappi with objects: None
+2025-07-04 08:26:25 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:26:26 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:27:15 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:27:15 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:31:06 - SYSTEM_START: 
+2025-07-04 08:31:31 - ALERT_TRIGGERED: Person: rabita, Objects: None
+2025-07-04 08:31:31 - KNOWN_PERSON: Detected: rabita with objects: None
+2025-07-04 08:33:07 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:33:08 - ALERT_TRIGGERED: Person: rabita, Objects: None
+2025-07-04 08:33:08 - KNOWN_PERSON: Detected: rabita with objects: None
+2025-07-04 08:33:40 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:33:40 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:34:11 - ALERT_TRIGGERED: Person: Robin, Objects: cell phone
+2025-07-04 08:34:11 - KNOWN_PERSON: Detected: Robin with objects: cell phone
+2025-07-04 08:34:46 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:34:46 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:34:58 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:34:58 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:37:03 - SYSTEM_START: 
+2025-07-04 08:37:19 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:37:19 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:37:30 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:37:30 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:37:41 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:37:41 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:37:43 - UNKNOWN_PERSON: With objects: cell phone
+2025-07-04 08:38:00 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:38:00 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:38:35 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:38:35 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:38:46 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:38:46 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:40:42 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:40:42 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:40:59 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:40:59 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:41:12 - UNKNOWN_PERSON: With objects: None
+2025-07-04 08:41:12 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:41:12 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:41:25 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:41:25 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:41:44 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:41:44 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:41:55 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:41:55 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:42:05 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:42:05 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:42:16 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:42:16 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:42:38 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:42:38 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:42:49 - ALERT_TRIGGERED: Person: Bappi, Objects: None
+2025-07-04 08:42:49 - KNOWN_PERSON: Detected: Bappi with objects: None
+2025-07-04 08:43:00 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:43:00 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:43:10 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:43:10 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-07-04 08:43:20 - ALERT_TRIGGERED: Person: Robin, Objects: None
+2025-07-04 08:43:20 - KNOWN_PERSON: Detected: Robin with objects: None
