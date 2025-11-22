@@ -35,13 +35,14 @@ logger = logging.getLogger(__name__)
 @dataclass
 class SecurityConfig:
     """Configuration class for security system settings."""
-    known_faces_dir: str = "images"
+    known_faces_dir: str = "family_members"
     alarm_sound_path: str = "./pols-aagyi-pols.mp3"
     alarm_cooldown: int = 3
     confidence_threshold: float = 0.5
     face_recognition_tolerance: float = 0.6
     pose_visibility_threshold: float = 0.5
     camera_index: int = 0
+    fallback_video: Optional[str] = "security_output.avi"
     email_enabled: bool = False
     smtp_server: str = "smtp.gmail.com"
     smtp_port: int = 587
@@ -131,17 +132,38 @@ class SecuritySystem:
     
     def _setup_camera(self):
         """Setup camera capture."""
+        # Try opening a live camera first
         self.cap = cv2.VideoCapture(self.config.camera_index)
-        if not self.cap.isOpened():
-            logger.error("Could not open camera")
-            raise RuntimeError("Camera initialization failed")
-        
-        # Set camera properties for better performance
-        self.cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
-        self.cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
-        self.cap.set(cv2.CAP_PROP_FPS, 30)
-        
-        logger.info("Camera initialized successfully")
+        if self.cap.isOpened():
+            logger.info(f"Camera {self.config.camera_index} opened successfully")
+        else:
+            logger.warning(f"Could not open camera index {self.config.camera_index}")
+            # Try fallback video file if provided
+            if self.config.fallback_video and Path(self.config.fallback_video).exists():
+                logger.info(f"Falling back to video file: {self.config.fallback_video}")
+                self.cap = cv2.VideoCapture(str(self.config.fallback_video))
+                if not self.cap.isOpened():
+                    logger.warning(f"Fallback video {self.config.fallback_video} could not be opened")
+                else:
+                    logger.info(f"Opened fallback video {self.config.fallback_video}")
+            else:
+                logger.warning("No fallback video provided or file does not exist. Running in headless/no-capture mode.")
+
+        # If a capture is available, set properties
+        if hasattr(self, 'cap') and self.cap is not None and self.cap.isOpened():
+            try:
+                self.cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
+                self.cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
+                self.cap.set(cv2.CAP_PROP_FPS, 30)
+            except Exception:
+                # Some capture backends don't support property setting
+                logger.debug("Could not set camera properties; backend may not support it")
+
+            logger.info("Video capture initialized")
+
+    def has_capture(self) -> bool:
+        """Return True if a video capture is available and opened."""
+        return hasattr(self, 'cap') and self.cap is not None and self.cap.isOpened()
     
     def send_email_alert(self, alert_type: str = "THREAT", person_id: str = "Unknown") -> bool:
         """Send email alert with proper error handling."""
