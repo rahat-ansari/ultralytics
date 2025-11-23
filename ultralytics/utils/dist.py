@@ -10,8 +10,12 @@ from .torch_utils import TORCH_1_9
 
 
 def find_free_network_port() -> int:
+<<<<<<< HEAD
     """
     Find a free port on localhost.
+=======
+    """Finds a free port on localhost.
+>>>>>>> security-alert
 
     It is useful in single-node training when we don't want to connect to a real main node but have to set the
     `MASTER_PORT` environment variable.

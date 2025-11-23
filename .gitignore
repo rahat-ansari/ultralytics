@@ -174,6 +174,7 @@ pnnx*
 
 # calibration image
 calibration_*.npy
+<<<<<<< HEAD
 /.conda
 /alert_images
 *.mp4
@@ -185,3 +186,6 @@ calibration_*.npy
 *.mov
 *.zip
 *.jpeg
+=======
+*.mp4
+>>>>>>> security-alert

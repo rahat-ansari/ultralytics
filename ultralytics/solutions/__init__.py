@@ -19,6 +19,14 @@ from .trackzone import TrackZone
 from .vision_eye import VisionEye
 
 __all__ = (
+<<<<<<< HEAD
+=======
+    "AIGym",
+    "Analytics",
+    "DistanceCalculation",
+    "Heatmap",
+    "Inference",
+>>>>>>> security-alert
     "ObjectCounter",
     "ObjectCropper",
     "ObjectBlurrer",
@@ -33,9 +41,17 @@ __all__ = (
     "QueueManager",
     "ParkingManagement",
     "ParkingPtsSelection",
+<<<<<<< HEAD
     "Analytics",
     "Inference",
     "TrackZone",
     "SearchApp",
     "VisualAISearch",
+=======
+    "QueueManager",
+    "RegionCounter",
+    "SecurityAlarm",
+    "SpeedEstimator",
+    "TrackZone",
+>>>>>>> security-alert
 )
