@@ -225,7 +225,11 @@ This will restore the run to its state before the interruption, which includes r
 
 ```shell
 python train.py \
+<<<<<<< HEAD
   --resume "comet://YOUR_RUN_PATH"
+=======
+  --resume "comet://<your run path>"
+>>>>>>> security-alert
 ```
 
 ## Hyperparameter Search with the Comet Optimizer

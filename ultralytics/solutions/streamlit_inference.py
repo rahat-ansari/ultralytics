@@ -12,11 +12,17 @@ from ultralytics.utils.downloads import GITHUB_ASSETS_STEMS
 
 
 class Inference:
+<<<<<<< HEAD
     """
     A class to perform object detection, image classification, image segmentation and pose estimation inference.
 
     This class provides functionalities for loading models, configuring settings, uploading video files, and performing
     real-time inference using Streamlit and Ultralytics YOLO models.
+=======
+    """A class to perform object detection, image classification, image segmentation and pose estimation inference using
+    Streamlit and Ultralytics YOLO models. It provides the functionalities such as loading models, configuring
+    settings, uploading video files, and performing real-time inference.
+>>>>>>> security-alert
 
     Attributes:
         st (module): Streamlit module for UI creation.
@@ -45,8 +51,12 @@ class Inference:
     """
 
     def __init__(self, **kwargs: Any):
+<<<<<<< HEAD
         """
         Initialize the Inference class, checking Streamlit requirements and setting up the model path.
+=======
+        """Initializes the Inference class, checking Streamlit requirements and setting up the model path.
+>>>>>>> security-alert
 
         Args:
             **kwargs (Any): Additional keyword arguments for model configuration.

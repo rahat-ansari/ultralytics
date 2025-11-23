@@ -5,11 +5,17 @@ from ultralytics.utils import DEFAULT_CFG, LOGGER, ops
 
 
 class PosePredictor(DetectionPredictor):
-    """
-    A class extending the DetectionPredictor class for prediction based on a pose model.
+    """A class extending the DetectionPredictor class for prediction based on a pose model.
 
+<<<<<<< HEAD
     This class specializes in pose estimation, handling keypoints detection alongside standard object detection
     capabilities inherited from DetectionPredictor.
+=======
+    Examples:
+        ```python
+        from ultralytics.utils import ASSETS
+        from ultralytics.models.yolo.pose import PosePredictor
+>>>>>>> security-alert
 
     Attributes:
         args (namespace): Configuration arguments for the predictor.
