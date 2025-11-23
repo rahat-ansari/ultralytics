@@ -1,0 +1,758 @@
+2025-11-03 23:04:55 - SYSTEM_START: 
+2025-11-03 23:05:02 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:02 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:03 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:04 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:04 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:04 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:04 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:04 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:04 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:04 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:05 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:06 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:06 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:06 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:06 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:11 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:05:17 - SYSTEM_SHUTDOWN: 
+2025-11-03 23:06:07 - SYSTEM_START: 
+2025-11-03 23:06:08 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:08 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:08 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:08 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:08 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:08 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:08 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:09 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:09 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:09 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:09 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:09 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:09 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:09 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:09 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:10 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:10 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:10 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:10 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:10 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:10 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:10 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:10 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:10 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:11 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:11 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:11 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:11 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:11 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:11 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:11 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:11 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:11 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:11 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:12 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:12 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:12 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:13 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:13 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:13 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:14 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:14 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:15 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:15 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:15 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:16 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:16 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:16 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:17 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:17 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:17 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:18 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:18 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:18 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:18 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:18 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:18 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:18 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:18 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:18 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:19 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:19 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:19 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:19 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:19 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:19 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:19 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:19 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:19 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:19 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:20 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:20 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:21 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:21 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:21 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:21 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:21 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:21 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:21 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:21 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:22 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:22 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:22 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:22 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:22 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:22 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:22 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:22 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:22 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:22 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:23 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:23 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:23 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:23 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:23 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:23 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:23 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:23 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:23 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:23 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:24 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:24 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:24 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:24 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:24 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:24 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:24 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:24 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:24 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:24 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:25 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:25 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:25 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:25 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:25 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:25 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:25 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:25 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:25 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:25 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:26 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:26 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:26 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:26 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:26 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:26 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:26 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:26 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:26 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:26 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:27 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:27 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:27 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:27 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:27 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:27 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:27 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:27 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:27 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:28 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:28 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:28 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:28 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:28 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:28 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:28 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:28 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:29 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:29 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:29 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:29 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:29 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:29 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:29 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:29 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:30 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:30 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:30 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:30 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:30 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:30 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:30 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:30 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:30 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:30 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:31 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:31 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:31 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:31 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:31 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:31 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:31 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:31 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:31 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:31 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:32 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:32 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:32 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:32 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:32 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:32 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:32 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:32 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:32 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:32 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:33 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:33 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:33 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:33 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:33 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:33 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:33 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:33 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:33 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:33 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:34 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:34 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:34 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:34 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:34 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:34 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:34 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:34 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:34 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:34 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:34 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:34 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:34 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:34 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:34 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:35 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:35 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:35 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:35 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:35 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:35 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:35 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:35 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:35 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:35 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:36 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:36 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:36 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:36 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:36 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:36 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:36 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:36 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:36 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:36 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:37 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:37 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:37 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:37 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:37 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:37 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:37 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:37 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:37 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:37 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:38 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:38 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:38 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:38 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:38 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:38 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:38 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:38 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:38 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:38 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:39 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:39 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:39 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:39 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:39 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:39 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:39 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:39 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:39 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:39 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:40 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:41 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:41 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:41 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:41 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:41 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:41 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:41 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:41 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:41 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:41 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:41 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:41 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:42 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:43 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:43 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:43 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:43 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:43 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:43 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:43 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:43 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:43 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:43 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:43 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:43 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:44 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:44 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:44 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:44 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:44 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:44 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:44 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:44 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:44 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:44 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:44 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:44 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:44 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:45 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:45 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:45 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:45 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:45 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:45 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:45 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:45 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:45 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:45 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:45 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:45 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:45 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:45 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:45 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:46 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:46 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:46 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:46 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:46 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:46 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:46 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:46 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:46 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:46 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:47 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:47 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:47 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:47 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:47 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:47 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:47 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:47 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:47 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:47 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:48 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:48 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:48 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:48 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:48 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:48 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:48 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:48 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:48 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:48 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:49 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:49 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:49 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:49 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:49 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:49 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:49 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:49 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:49 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:49 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:50 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:50 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:50 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:50 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:50 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:50 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:50 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:50 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:50 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:50 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:51 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:51 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:51 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:51 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:51 - UNKNOWN_PERSON: With objects: None
+2025-11-03 23:06:51 - KNOWN_PERSON: Detected: robin with objects: None
+2025-11-03 23:06:52 - SYSTEM_SHUTDOWN: 
+2025-11-03 23:09:59,274 - INFO: Loading YOLO model...
+2025-11-03 23:09:59,389 - INFO: Initializing MediaPipe face detection...
+2025-11-03 23:09:59,823 - INFO: Loaded face for barak_obama from face_1.jpeg
+2025-11-03 23:10:03,093 - INFO: Loaded face for barak_obama from face_2.jpg
+2025-11-03 23:10:04,001 - INFO: Loaded face for robin from robin_01.jpg
+2025-11-03 23:10:04,881 - INFO: Loaded face for robin from robin_02.jpg
+2025-11-03 23:10:05,754 - INFO: Loaded face for robin from robin_03.jpg
+2025-11-03 23:10:05,755 - INFO: Loaded 5 encodings for 2 people
+2025-11-03 23:10:05,760 - INFO: Alarm loaded
+2025-11-03 23:10:05,761 - INFO: Initialization complete
+2025-11-03 23:10:05,796 - INFO: Monitoring started. Press 'q' to quit.
+2025-11-03 23:11:20,273 - INFO: Loading YOLO model...
+2025-11-03 23:11:20,382 - INFO: Initializing MediaPipe face detection...
+2025-11-03 23:11:20,817 - INFO: Loaded face for barak_obama from face_1.jpeg
+2025-11-03 23:11:24,092 - INFO: Loaded face for barak_obama from face_2.jpg
+2025-11-03 23:11:25,019 - INFO: Loaded face for robin from robin_01.jpg
+2025-11-03 23:11:25,886 - INFO: Loaded face for robin from robin_02.jpg
+2025-11-03 23:11:26,758 - INFO: Loaded face for robin from robin_03.jpg
+2025-11-03 23:11:26,759 - INFO: Loaded 5 encodings for 2 people
+2025-11-03 23:11:27,027 - INFO: Alarm loaded
+2025-11-03 23:11:27,028 - INFO: Initialization complete
+2025-11-03 23:11:27,045 - INFO: Monitoring started. Press 'q' to quit.
+2025-11-03 23:13:08,632 - INFO: Loading YOLO model...
+2025-11-03 23:13:08,701 - INFO: Initializing MediaPipe face detection...
+2025-11-03 23:13:09,143 - INFO: Loaded face for barak_obama from face_1.jpeg
+2025-11-03 23:13:12,404 - INFO: Loaded face for barak_obama from face_2.jpg
+2025-11-03 23:13:13,305 - INFO: Loaded face for robin from robin_01.jpg
+2025-11-03 23:13:14,182 - INFO: Loaded face for robin from robin_02.jpg
+2025-11-03 23:13:15,066 - INFO: Loaded face for robin from robin_03.jpg
+2025-11-03 23:13:15,066 - INFO: Loaded 5 encodings for 2 people
+2025-11-03 23:13:15,313 - INFO: Alarm loaded
+2025-11-03 23:13:15,314 - INFO: Initialization complete
+2025-11-03 23:13:15,331 - INFO: Monitoring started. Press 'q' to quit.
+2025-11-03 23:14:39,291 - INFO: Loading YOLO model...
+2025-11-03 23:14:39,357 - INFO: Initializing MediaPipe face detection...
+2025-11-03 23:14:39,746 - INFO: Loaded face for barak_obama from face_1.jpeg
+2025-11-03 23:14:43,029 - INFO: Loaded face for barak_obama from face_2.jpg
+2025-11-03 23:14:43,950 - INFO: Loaded face for robin from robin_01.jpg
+2025-11-03 23:14:44,833 - INFO: Loaded face for robin from robin_02.jpg
+2025-11-03 23:14:45,736 - INFO: Loaded face for robin from robin_03.jpg
+2025-11-03 23:14:45,737 - INFO: Loaded 5 encodings for 2 people
+2025-11-03 23:14:45,995 - INFO: Alarm loaded
+2025-11-03 23:14:45,996 - INFO: Initialization complete
+2025-11-03 23:14:46,014 - INFO: Monitoring started. Press 'q' to quit.
+2025-11-03 23:16:16,203 - INFO: Shutdown complete
+2025-11-03 23:21:18,495 - INFO: Loading YOLO model...
+2025-11-03 23:21:18,578 - INFO: Initializing MediaPipe face detection...
+2025-11-03 23:21:19,031 - INFO: Loaded face for barak_obama from face_1.jpeg
+2025-11-03 23:21:22,472 - INFO: Loaded face for barak_obama from face_2.jpg
+2025-11-03 23:21:23,399 - INFO: Loaded face for robin from robin_01.jpg
+2025-11-03 23:21:24,305 - INFO: Loaded face for robin from robin_02.jpg
+2025-11-03 23:21:25,279 - INFO: Loaded face for robin from robin_03.jpg
+2025-11-03 23:21:25,280 - INFO: Loaded 5 encodings for 2 people
+2025-11-03 23:21:25,559 - INFO: Alarm loaded
+2025-11-03 23:21:25,560 - INFO: Initialization complete
+2025-11-03 23:21:25,576 - INFO: Monitoring started. Press 'q' to quit.
+2025-11-03 23:22:47,715 - INFO: Loading YOLO model...
+2025-11-03 23:22:47,789 - INFO: Initializing MediaPipe face detection...
+2025-11-03 23:22:48,206 - INFO: Loaded face for barak_obama from face_1.jpeg
+2025-11-03 23:22:51,461 - INFO: Loaded face for barak_obama from face_2.jpg
+2025-11-03 23:22:52,368 - INFO: Loaded face for robin from robin_01.jpg
+2025-11-03 23:22:53,239 - INFO: Loaded face for robin from robin_02.jpg
+2025-11-03 23:22:54,103 - INFO: Loaded face for robin from robin_03.jpg
+2025-11-03 23:22:54,104 - INFO: Loaded 5 encodings for 2 people
+2025-11-03 23:22:54,367 - INFO: Alarm loaded
+2025-11-03 23:22:54,368 - INFO: Initialization complete
+2025-11-03 23:22:54,425 - INFO: Monitoring started. Press 'q' to quit.
+2025-11-03 23:22:59,884 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:00,421 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:01,377 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:02,360 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:02,841 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:03,328 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:03,934 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:05,604 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:06,084 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:06,537 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:06,986 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:07,447 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:07,900 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:08,357 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:09,730 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:11,599 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:12,065 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:14,799 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:15,296 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:15,760 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:23,430 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:23,893 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:25,796 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:26,829 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:27,300 - INFO: Known person confirmed: robin; objects: None (no alarm)
+2025-11-03 23:23:30,446 - WARNING: Failed to grab frame
+2025-11-03 23:23:30,525 - INFO: Shutdown complete
+2025-11-03 23:24:31,080 - INFO: Loading YOLO model...
+2025-11-03 23:24:31,290 - INFO: Initializing MediaPipe face detection...
+2025-11-03 23:24:31,686 - INFO: Loaded face: barak_obama from face_1.jpeg
+2025-11-03 23:24:35,213 - INFO: Loaded face: barak_obama from face_2.jpg
+2025-11-03 23:24:36,166 - INFO: Loaded face: robin from robin_01.jpg
+2025-11-03 23:24:37,120 - INFO: Loaded face: robin from robin_02.jpg
+2025-11-03 23:24:38,034 - INFO: Loaded face: robin from robin_03.jpg
+2025-11-03 23:24:38,034 - INFO: Loaded 5 face encodings for 2 people
+2025-11-03 23:24:38,275 - INFO: Alarm system initialized
+2025-11-03 23:24:38,276 - INFO: System initialization completed successfully
+2025-11-03 23:24:38,331 - INFO: Security monitoring started. Press 'q' to quit.
+2025-11-03 23:24:39,401 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:40,091 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:40,587 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:41,062 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:41,536 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:42,047 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:42,528 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:43,006 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:43,485 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:43,961 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:44,456 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:44,949 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:45,480 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:45,950 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:46,419 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:46,886 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:47,354 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:47,824 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:48,301 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:48,769 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:49,235 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:49,714 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:50,187 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:50,649 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:51,125 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:51,593 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:52,077 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:52,551 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:53,024 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:53,506 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:53,980 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:54,469 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:54,947 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:55,413 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:55,880 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:56,344 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:56,813 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:57,302 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:57,768 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:58,235 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:58,698 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:24:59,157 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:25:01,305 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:25:01,936 - INFO: Known person 'robin' detected. No alarm triggered.
+2025-11-03 23:25:02,401 - INFO: ALERT: UNKNOWN person detected with objects: laptop

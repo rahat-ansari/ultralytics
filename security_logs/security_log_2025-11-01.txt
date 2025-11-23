@@ -1,0 +1,145 @@
+2025-11-01 00:06:14 - SYSTEM_START: 
+2025-11-01 00:13:22 - SYSTEM_START: 
+2025-11-01 00:13:58 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:14:11 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:14:47 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:19:45 - SYSTEM_START: 
+2025-11-01 00:19:51 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:20:01 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:20:14 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:20:24 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:20:35 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:20:45 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:20:55 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:21:06 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:21:17 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:21:29 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:21:40 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:21:50 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:22:00 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:22:10 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:22:21 - KNOWN_PERSON: Detected: john_doe with objects: None
+2025-11-01 00:28:57 - SYSTEM_START: 
+2025-11-01 00:28:57 - SYSTEM_ERROR: 'list' object has no attribute 'boxes'
+2025-11-01 00:28:58 - SYSTEM_SHUTDOWN: 
+2025-11-01 00:35:15 - SYSTEM_START: 
+2025-11-01 00:35:16 - SYSTEM_ERROR: list index out of range
+2025-11-01 00:35:16 - SYSTEM_SHUTDOWN: 
+2025-11-01 00:38:11,018 - INFO: Loading YOLO model...
+2025-11-01 00:38:11,094 - INFO: Initializing MediaPipe face detection...
+2025-11-01 00:38:11,529 - INFO: Loaded face: barak_obama from face_1.jpeg
+2025-11-01 00:38:14,865 - INFO: Loaded face: barak_obama from face_2.jpg
+2025-11-01 00:38:15,333 - INFO: Loaded face: john_doe from 1689422490400.jpeg
+2025-11-01 00:38:15,710 - INFO: Loaded face: john_doe from face_1.jpg
+2025-11-01 00:38:16,605 - INFO: Loaded face: john_doe from face_2.jpg
+2025-11-01 00:38:17,176 - WARNING: No faces found in family_members\john_doe\image11.jpg
+2025-11-01 00:38:17,734 - WARNING: No faces found in family_members\john_doe\image13.jpg
+2025-11-01 00:38:18,649 - INFO: Loaded face: john_doe from image5.jpg
+2025-11-01 00:38:19,536 - INFO: Loaded face: john_doe from image6.jpg
+2025-11-01 00:38:20,483 - INFO: Loaded face: john_doe from image9.jpg
+2025-11-01 00:38:20,939 - INFO: Loaded face: john_doe from rahat.jpeg
+2025-11-01 00:38:21,901 - INFO: Loaded face: john_doe from WIN_20250929_13_24_11_Pro.jpg
+2025-11-01 00:38:22,834 - INFO: Loaded face: john_doe from WIN_20250929_13_24_22_Pro.jpg
+2025-11-01 00:38:23,713 - INFO: Loaded face: john_doe from WIN_20250929_13_25_32_Pro.jpg
+2025-11-01 00:38:24,600 - INFO: Loaded face: john_doe from WIN_20250929_13_25_38_Pro.jpg
+2025-11-01 00:38:25,159 - WARNING: No faces found in family_members\john_doe\WIN_20250929_13_25_50_Pro.jpg
+2025-11-01 00:38:25,721 - WARNING: No faces found in family_members\john_doe\WIN_20250929_13_25_53_Pro.jpg
+2025-11-01 00:38:26,620 - INFO: Loaded face: john_doe from WIN_20251001_12_21_10_Pro.jpg
+2025-11-01 00:38:27,526 - INFO: Loaded face: john_doe from WIN_20251001_12_21_15_Pro.jpg
+2025-11-01 00:38:28,424 - INFO: Loaded face: john_doe from WIN_20251001_12_21_27_Pro.jpg
+2025-11-01 00:38:29,001 - WARNING: No faces found in family_members\john_doe\WIN_20251001_12_21_35_Pro.jpg
+2025-11-01 00:38:29,900 - INFO: Loaded face: john_doe from WIN_20251001_12_21_45_Pro.jpg
+2025-11-01 00:38:30,474 - WARNING: No faces found in family_members\john_doe\WIN_20251001_12_21_56_Pro.jpg
+2025-11-01 00:38:31,055 - WARNING: No faces found in family_members\john_doe\WIN_20251001_12_21_57_Pro.jpg
+2025-11-01 00:38:31,947 - INFO: Loaded face: john_doe from WIN_20251007_12_17_55_Pro.jpg
+2025-11-01 00:38:32,515 - WARNING: No faces found in family_members\john_doe\WIN_20251007_12_18_24_Pro.jpg
+2025-11-01 00:38:33,087 - WARNING: No faces found in family_members\john_doe\WIN_20251007_12_18_32_Pro.jpg
+2025-11-01 00:38:33,987 - INFO: Loaded face: john_doe from WIN_20251029_19_22_39_Pro.jpg
+2025-11-01 00:38:34,885 - INFO: Loaded face: john_doe from WIN_20251029_19_22_44_Pro.jpg
+2025-11-01 00:38:35,792 - INFO: Loaded face: john_doe from WIN_20251029_19_22_55_Pro.jpg
+2025-11-01 00:38:36,377 - WARNING: No faces found in family_members\john_doe\WIN_20251029_19_23_00_Pro.jpg
+2025-11-01 00:38:37,309 - INFO: Loaded face: john_doe from WIN_20251029_19_23_16_Pro.jpg
+2025-11-01 00:38:37,311 - INFO: Loaded 22 face encodings for 2 people
+2025-11-01 00:38:37,579 - INFO: Alarm system initialized
+2025-11-01 00:38:37,580 - INFO: System initialization completed successfully
+2025-11-01 00:38:37,596 - INFO: Security monitoring started. Press 'q' to quit.
+2025-11-01 00:40:25,112 - WARNING: Failed to grab frame
+2025-11-01 00:40:25,186 - INFO: System shutdown completed
+2025-11-01 01:39:06,785 - INFO: Loading YOLO model...
+2025-11-01 01:39:07,349 - INFO: Initializing MediaPipe face detection...
+2025-11-01 01:39:07,803 - INFO: Loaded face for barak_obama from face_1.jpeg
+2025-11-01 01:39:11,191 - INFO: Loaded face for barak_obama from face_2.jpg
+2025-11-01 01:39:11,663 - INFO: Loaded face for john_doe from 1689422490400.jpeg
+2025-11-01 01:39:12,035 - INFO: Loaded face for john_doe from face_1.jpg
+2025-11-01 01:39:12,937 - INFO: Loaded face for john_doe from face_2.jpg
+2025-11-01 01:39:13,498 - WARNING: No face found in family_members\john_doe\image11.jpg
+2025-11-01 01:39:14,070 - WARNING: No face found in family_members\john_doe\image13.jpg
+2025-11-01 01:39:14,950 - INFO: Loaded face for john_doe from image5.jpg
+2025-11-01 01:39:15,871 - INFO: Loaded face for john_doe from image6.jpg
+2025-11-01 01:39:16,762 - INFO: Loaded face for john_doe from image9.jpg
+2025-11-01 01:39:17,334 - INFO: Loaded face for john_doe from rahat.jpeg
+2025-11-01 01:39:18,358 - INFO: Loaded face for john_doe from WIN_20250929_13_24_11_Pro.jpg
+2025-11-01 01:39:19,315 - INFO: Loaded face for john_doe from WIN_20250929_13_24_22_Pro.jpg
+2025-11-01 01:39:20,352 - INFO: Loaded face for john_doe from WIN_20250929_13_25_32_Pro.jpg
+2025-11-01 01:39:21,250 - INFO: Loaded face for john_doe from WIN_20250929_13_25_38_Pro.jpg
+2025-11-01 01:39:21,826 - WARNING: No face found in family_members\john_doe\WIN_20250929_13_25_50_Pro.jpg
+2025-11-01 01:39:22,383 - WARNING: No face found in family_members\john_doe\WIN_20250929_13_25_53_Pro.jpg
+2025-11-01 01:39:23,293 - INFO: Loaded face for john_doe from WIN_20251001_12_21_10_Pro.jpg
+2025-11-01 01:39:24,197 - INFO: Loaded face for john_doe from WIN_20251001_12_21_15_Pro.jpg
+2025-11-01 01:39:25,137 - INFO: Loaded face for john_doe from WIN_20251001_12_21_27_Pro.jpg
+2025-11-01 01:39:25,715 - WARNING: No face found in family_members\john_doe\WIN_20251001_12_21_35_Pro.jpg
+2025-11-01 01:39:26,620 - INFO: Loaded face for john_doe from WIN_20251001_12_21_45_Pro.jpg
+2025-11-01 01:39:27,201 - WARNING: No face found in family_members\john_doe\WIN_20251001_12_21_56_Pro.jpg
+2025-11-01 01:39:27,787 - WARNING: No face found in family_members\john_doe\WIN_20251001_12_21_57_Pro.jpg
+2025-11-01 01:39:28,737 - INFO: Loaded face for john_doe from WIN_20251007_12_17_55_Pro.jpg
+2025-11-01 01:39:29,334 - WARNING: No face found in family_members\john_doe\WIN_20251007_12_18_24_Pro.jpg
+2025-11-01 01:39:29,905 - WARNING: No face found in family_members\john_doe\WIN_20251007_12_18_32_Pro.jpg
+2025-11-01 01:39:30,808 - INFO: Loaded face for john_doe from WIN_20251029_19_22_39_Pro.jpg
+2025-11-01 01:39:31,789 - INFO: Loaded face for john_doe from WIN_20251029_19_22_44_Pro.jpg
+2025-11-01 01:39:32,714 - INFO: Loaded face for john_doe from WIN_20251029_19_22_55_Pro.jpg
+2025-11-01 01:39:33,329 - WARNING: No face found in family_members\john_doe\WIN_20251029_19_23_00_Pro.jpg
+2025-11-01 01:39:34,254 - INFO: Loaded face for john_doe from WIN_20251029_19_23_16_Pro.jpg
+2025-11-01 01:39:34,255 - INFO: Loaded 22 encodings for 2 people
+2025-11-01 01:39:34,601 - INFO: Alarm loaded
+2025-11-01 01:39:34,601 - INFO: Initialization complete
+2025-11-01 01:39:34,618 - INFO: Monitoring started. Press 'q' to quit.
+2025-11-01 01:41:51,848 - WARNING: Failed to grab frame
+2025-11-01 01:41:51,938 - INFO: Shutdown complete
+2025-11-01 01:42:54,095 - INFO: Loading YOLO model...
+2025-11-01 01:42:54,280 - INFO: Initializing MediaPipe face detection...
+2025-11-01 01:42:54,681 - INFO: Loaded face for barak_obama from face_1.jpeg
+2025-11-01 01:42:58,003 - INFO: Loaded face for barak_obama from face_2.jpg
+2025-11-01 01:42:58,537 - INFO: Loaded face for john_doe from 1689422490400.jpeg
+2025-11-01 01:42:58,908 - INFO: Loaded face for john_doe from face_1.jpg
+2025-11-01 01:42:59,827 - INFO: Loaded face for john_doe from face_2.jpg
+2025-11-01 01:43:00,501 - WARNING: No face found in family_members\john_doe\image11.jpg
+2025-11-01 01:43:01,115 - WARNING: No face found in family_members\john_doe\image13.jpg
+2025-11-01 01:43:02,031 - INFO: Loaded face for john_doe from image5.jpg
+2025-11-01 01:43:02,957 - INFO: Loaded face for john_doe from image6.jpg
+2025-11-01 01:43:03,877 - INFO: Loaded face for john_doe from image9.jpg
+2025-11-01 01:43:04,329 - INFO: Loaded face for john_doe from rahat.jpeg
+2025-11-01 01:43:05,279 - INFO: Loaded face for john_doe from WIN_20250929_13_24_11_Pro.jpg
+2025-11-01 01:43:06,201 - INFO: Loaded face for john_doe from WIN_20250929_13_24_22_Pro.jpg
+2025-11-01 01:43:07,094 - INFO: Loaded face for john_doe from WIN_20250929_13_25_32_Pro.jpg
+2025-11-01 01:43:07,978 - INFO: Loaded face for john_doe from WIN_20250929_13_25_38_Pro.jpg
+2025-11-01 01:43:08,534 - WARNING: No face found in family_members\john_doe\WIN_20250929_13_25_50_Pro.jpg
+2025-11-01 01:43:09,098 - WARNING: No face found in family_members\john_doe\WIN_20250929_13_25_53_Pro.jpg
+2025-11-01 01:43:10,007 - INFO: Loaded face for john_doe from WIN_20251001_12_21_10_Pro.jpg
+2025-11-01 01:43:11,099 - INFO: Loaded face for john_doe from WIN_20251001_12_21_15_Pro.jpg
+2025-11-01 01:43:12,134 - INFO: Loaded face for john_doe from WIN_20251001_12_21_27_Pro.jpg
+2025-11-01 01:43:12,790 - WARNING: No face found in family_members\john_doe\WIN_20251001_12_21_35_Pro.jpg
+2025-11-01 01:43:13,758 - INFO: Loaded face for john_doe from WIN_20251001_12_21_45_Pro.jpg
+2025-11-01 01:43:14,356 - WARNING: No face found in family_members\john_doe\WIN_20251001_12_21_56_Pro.jpg
+2025-11-01 01:43:14,978 - WARNING: No face found in family_members\john_doe\WIN_20251001_12_21_57_Pro.jpg
+2025-11-01 01:43:15,962 - INFO: Loaded face for john_doe from WIN_20251007_12_17_55_Pro.jpg
+2025-11-01 01:43:16,542 - WARNING: No face found in family_members\john_doe\WIN_20251007_12_18_24_Pro.jpg
+2025-11-01 01:43:17,096 - WARNING: No face found in family_members\john_doe\WIN_20251007_12_18_32_Pro.jpg
+2025-11-01 01:43:17,986 - INFO: Loaded face for john_doe from WIN_20251029_19_22_39_Pro.jpg
+2025-11-01 01:43:18,901 - INFO: Loaded face for john_doe from WIN_20251029_19_22_44_Pro.jpg
+2025-11-01 01:43:19,786 - INFO: Loaded face for john_doe from WIN_20251029_19_22_55_Pro.jpg
+2025-11-01 01:43:20,344 - WARNING: No face found in family_members\john_doe\WIN_20251029_19_23_00_Pro.jpg
+2025-11-01 01:43:21,233 - INFO: Loaded face for john_doe from WIN_20251029_19_23_16_Pro.jpg
+2025-11-01 01:43:21,233 - INFO: Loaded 22 encodings for 2 people
+2025-11-01 01:43:21,488 - INFO: Alarm loaded
+2025-11-01 01:43:21,489 - INFO: Initialization complete
+2025-11-01 01:43:21,503 - INFO: Monitoring started. Press 'q' to quit.

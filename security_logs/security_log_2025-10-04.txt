@@ -1,0 +1,136 @@
+2025-10-04 00:00:05,783 - INFO: Loading YOLO model...
+2025-10-04 00:00:05,854 - INFO: Initializing MediaPipe face detection...
+2025-10-04 00:00:06,238 - INFO: Loaded face for obama from image1.jpeg
+2025-10-04 00:00:06,740 - INFO: Loaded face for obama from image1.jpg
+2025-10-04 00:00:09,973 - INFO: Loaded face for obama from image2.jpg
+2025-10-04 00:00:10,408 - INFO: Loaded face for Robin from avatar.png
+2025-10-04 00:00:10,761 - INFO: Loaded face for Robin from image1.jpg
+2025-10-04 00:00:11,380 - INFO: Loaded face for Robin from image2.jpg
+2025-10-04 00:00:11,380 - INFO: Loaded 6 encodings for 2 people
+2025-10-04 00:00:11,656 - INFO: Alarm loaded
+2025-10-04 00:00:11,657 - INFO: Initialization complete
+2025-10-04 00:02:21,713 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-04 00:05:12,417 - INFO: Shutdown complete
+2025-10-04 00:08:18,527 - INFO: Loading YOLO model...
+2025-10-04 00:08:18,596 - INFO: Initializing MediaPipe face detection...
+2025-10-04 00:08:18,977 - INFO: Loaded face for obama from image1.jpeg
+2025-10-04 00:08:19,478 - INFO: Loaded face for obama from image1.jpg
+2025-10-04 00:08:22,627 - INFO: Loaded face for obama from image2.jpg
+2025-10-04 00:08:23,091 - INFO: Loaded face for Robin from avatar.png
+2025-10-04 00:08:23,452 - INFO: Loaded face for Robin from image1.jpg
+2025-10-04 00:08:24,063 - INFO: Loaded face for Robin from image2.jpg
+2025-10-04 00:08:24,064 - INFO: Loaded 6 encodings for 2 people
+2025-10-04 00:08:24,334 - INFO: Alarm loaded
+2025-10-04 00:08:24,335 - INFO: Initialization complete
+2025-10-04 00:08:24,352 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-04 00:09:18,001 - INFO: Shutdown complete
+2025-10-04 00:10:11,197 - INFO: Loading YOLO model...
+2025-10-04 00:10:11,258 - INFO: Initializing MediaPipe face detection...
+2025-10-04 00:10:11,627 - INFO: Loaded face for obama from image1.jpeg
+2025-10-04 00:10:12,116 - INFO: Loaded face for obama from image1.jpg
+2025-10-04 00:10:15,230 - INFO: Loaded face for obama from image2.jpg
+2025-10-04 00:10:15,688 - INFO: Loaded face for Robin from avatar.png
+2025-10-04 00:10:16,052 - INFO: Loaded face for Robin from image1.jpg
+2025-10-04 00:10:16,672 - INFO: Loaded face for Robin from image2.jpg
+2025-10-04 00:10:16,673 - INFO: Loaded 6 encodings for 2 people
+2025-10-04 00:10:16,924 - INFO: Alarm loaded
+2025-10-04 00:10:16,924 - INFO: Initialization complete
+2025-10-04 00:10:16,938 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-04 00:11:04,589 - INFO: Shutdown complete
+2025-10-04 00:16:34,429 - INFO: Loading YOLO model...
+2025-10-04 00:16:34,487 - INFO: Initializing MediaPipe face detection...
+2025-10-04 00:16:34,861 - INFO: Loaded face for obama from image1.jpeg
+2025-10-04 00:16:35,350 - INFO: Loaded face for obama from image1.jpg
+2025-10-04 00:16:38,438 - INFO: Loaded face for obama from image2.jpg
+2025-10-04 00:16:38,879 - INFO: Loaded face for Robin from avatar.png
+2025-10-04 00:16:39,244 - INFO: Loaded face for Robin from image1.jpg
+2025-10-04 00:16:39,865 - INFO: Loaded face for Robin from image2.jpg
+2025-10-04 00:16:39,865 - INFO: Loaded 6 encodings for 2 people
+2025-10-04 00:16:40,183 - INFO: Alarm loaded
+2025-10-04 00:16:40,184 - INFO: Initialization complete
+2025-10-04 00:16:40,199 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-04 00:18:17,451 - WARNING: Failed to grab frame
+2025-10-04 00:18:17,522 - INFO: Shutdown complete
+2025-10-04 00:28:34,719 - INFO: Loading YOLO model...
+2025-10-04 00:28:34,785 - INFO: Initializing MediaPipe face detection...
+2025-10-04 00:28:35,165 - INFO: Loaded face: obama from image1.jpeg
+2025-10-04 00:28:35,668 - INFO: Loaded face: obama from image1.jpg
+2025-10-04 00:28:38,771 - INFO: Loaded face: obama from image2.jpg
+2025-10-04 00:28:39,220 - INFO: Loaded face: Robin from avatar.png
+2025-10-04 00:28:39,607 - INFO: Loaded face: Robin from image1.jpg
+2025-10-04 00:28:40,228 - INFO: Loaded face: Robin from image2.jpg
+2025-10-04 00:28:40,229 - INFO: Loaded 6 face encodings for 2 people
+2025-10-04 00:28:40,539 - INFO: Alarm system initialized
+2025-10-04 00:28:40,539 - INFO: System initialization completed successfully
+2025-10-04 00:28:40,557 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-04 00:28:54,721 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:28:57,437 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4214: error: (-215:Assertion failed) !dsize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:14,032 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:16,001 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:16,288 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:18,973 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:26,057 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:29,191 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:29,342 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:29,492 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:29,901 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:30,062 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:30,341 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:30,622 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:30,776 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:30,923 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:31,059 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:32,398 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:32,536 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:32,673 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:32,810 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:32,950 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:33,097 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:33,939 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:36,906 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:39,107 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:40,987 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:44,282 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:50,083 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:56,646 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4214: error: (-215:Assertion failed) !dsize.empty() in function 'cv::resize'
+
+2025-10-04 00:29:59,564 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4214: error: (-215:Assertion failed) !dsize.empty() in function 'cv::resize'
+
+2025-10-04 00:30:04,651 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:30:17,257 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:30:17,406 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-04 00:30:20,854 - WARNING: Failed to grab frame
+2025-10-04 00:30:20,926 - INFO: System shutdown completed
+2025-10-04 00:43:14 - SYSTEM_START: 

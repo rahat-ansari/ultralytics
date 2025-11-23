@@ -1,0 +1,60 @@
+2025-10-11 04:53:16,248 - INFO: Loading YOLO model...
+2025-10-11 04:53:16,356 - INFO: Initializing MediaPipe face detection...
+2025-10-11 04:53:16,735 - INFO: Loaded face: obama from image1.jpeg
+2025-10-11 04:53:19,894 - INFO: Loaded face: obama from image2.jpg
+2025-10-11 04:53:20,407 - INFO: Loaded face: obama from image3.jpg
+2025-10-11 04:53:20,768 - INFO: Loaded face: Robin from image1.jpg
+2025-10-11 04:53:21,381 - INFO: Loaded face: Robin from image2.jpg
+2025-10-11 04:53:21,808 - INFO: Loaded face: Robin from image3.png
+2025-10-11 04:53:22,692 - INFO: Loaded face: Robin from image4.jpg
+2025-10-11 04:53:23,255 - WARNING: No faces found in family_members\Robin\image5.jpg
+2025-10-11 04:53:23,815 - WARNING: No faces found in family_members\Robin\image6.jpg
+2025-10-11 04:53:24,375 - WARNING: No faces found in family_members\Robin\image7.jpg
+2025-10-11 04:53:24,918 - WARNING: No faces found in family_members\Robin\image8.jpg
+2025-10-11 04:53:25,461 - WARNING: No faces found in family_members\Robin\image9.jpg
+2025-10-11 04:53:26,342 - INFO: Loaded face: Robin from WIN_20251008_18_54_57_Pro.jpg
+2025-10-11 04:53:27,209 - INFO: Loaded face: Robin from WIN_20251008_18_55_02_Pro.jpg
+2025-10-11 04:53:28,081 - INFO: Loaded face: Robin from WIN_20251008_18_55_08_Pro.jpg
+2025-10-11 04:53:28,950 - INFO: Loaded face: Robin from WIN_20251008_18_55_11_Pro.jpg
+2025-10-11 04:53:29,831 - INFO: Loaded face: Robin from WIN_20251008_18_56_03_Pro.jpg
+2025-10-11 04:53:30,745 - INFO: Loaded face: Robin from WIN_20251008_18_56_08_Pro.jpg
+2025-10-11 04:53:30,745 - INFO: Loaded 13 face encodings for 2 people
+2025-10-11 04:53:31,059 - INFO: Alarm system initialized
+2025-10-11 04:53:31,059 - INFO: System initialization completed successfully
+2025-10-11 04:53:31,076 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-11 04:53:49,031 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-11 04:53:52,022 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4214: error: (-215:Assertion failed) !dsize.empty() in function 'cv::resize'
+
+2025-10-11 04:54:01,196 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-11 04:54:01,706 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-11 04:54:29,462 - ERROR: Face recognition failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-11 05:11:42,128 - INFO: Loading YOLO model...
+2025-10-11 05:11:42,257 - INFO: Initializing MediaPipe face detection...
+2025-10-11 05:11:42,652 - INFO: Loaded face for obama from image1.jpeg
+2025-10-11 05:11:45,912 - INFO: Loaded face for obama from image2.jpg
+2025-10-11 05:11:46,459 - INFO: Loaded face for obama from image3.jpg
+2025-10-11 05:11:46,838 - INFO: Loaded face for Robin from image1.jpg
+2025-10-11 05:11:47,489 - INFO: Loaded face for Robin from image2.jpg
+2025-10-11 05:11:47,921 - INFO: Loaded face for Robin from image3.png
+2025-10-11 05:11:48,814 - INFO: Loaded face for Robin from image4.jpg
+2025-10-11 05:11:49,406 - WARNING: No face found in family_members\Robin\image5.jpg
+2025-10-11 05:11:49,964 - WARNING: No face found in family_members\Robin\image6.jpg
+2025-10-11 05:11:50,515 - WARNING: No face found in family_members\Robin\image7.jpg
+2025-10-11 05:11:51,069 - WARNING: No face found in family_members\Robin\image8.jpg
+2025-10-11 05:11:51,614 - WARNING: No face found in family_members\Robin\image9.jpg
+2025-10-11 05:11:52,488 - INFO: Loaded face for Robin from WIN_20251008_18_54_57_Pro.jpg
+2025-10-11 05:11:53,365 - INFO: Loaded face for Robin from WIN_20251008_18_55_02_Pro.jpg
+2025-10-11 05:11:54,271 - INFO: Loaded face for Robin from WIN_20251008_18_55_08_Pro.jpg
+2025-10-11 05:11:55,137 - INFO: Loaded face for Robin from WIN_20251008_18_55_11_Pro.jpg
+2025-10-11 05:11:56,022 - INFO: Loaded face for Robin from WIN_20251008_18_56_03_Pro.jpg
+2025-10-11 05:11:56,883 - INFO: Loaded face for Robin from WIN_20251008_18_56_08_Pro.jpg
+2025-10-11 05:11:56,883 - INFO: Loaded 13 encodings for 2 people
+2025-10-11 05:11:56,884 - INFO: Alarm loaded
+2025-10-11 05:11:56,886 - INFO: Initialization complete
+2025-10-11 05:11:56,919 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-11 05:14:10,063 - WARNING: Failed to grab frame
+2025-10-11 05:14:10,140 - INFO: Shutdown complete

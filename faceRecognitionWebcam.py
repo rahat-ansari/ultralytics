@@ -4,7 +4,11 @@ import numpy as np
 
 
 # Load a sample picture and learn how to recognize it.
+<<<<<<< HEAD
 obama_image = face_recognition.load_image_file("./images/obama/image1.jpg")
+=======
+obama_image = face_recognition.load_image_file("Test-Video-And-Images/barackObama.jpg")
+>>>>>>> 302d2d26dbbece0806ee2341c3a90065f0fa928f
 obama_face_encoding = face_recognition.face_encodings(obama_image)[0]
 
 # Load a second sample picture and learn how to recognize it.

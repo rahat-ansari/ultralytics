@@ -1,0 +1,6 @@
+[2025-10-19 13:57:03.542452] Unauthorized Person Detected: Unknown
+[2025-10-19 14:52:51.136212] Unauthorized Person Detected: Unknown
+[2025-10-21 14:16:42.652358] Unauthorized Person Detected: Unknown
+[2025-10-29 18:57:34.080149] Unauthorized Person Detected: Unknown
+[2025-10-29 19:01:17.870911] Unauthorized Person Detected: Unknown
+[2025-10-29 19:05:42.929023] Unauthorized Person Detected: Unknown

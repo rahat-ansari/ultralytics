@@ -1,0 +1,24 @@
+2025-09-27 22:31:56 - SYSTEM_START: 
+2025-09-27 22:35:33 - SYSTEM_SHUTDOWN: 
+2025-09-27 22:42:19,295 - INFO: Loading YOLO model...
+2025-09-27 22:42:19,403 - INFO: Initializing MediaPipe face detection...
+2025-09-27 22:42:20,386 - INFO: Loaded face: moly from image1.jpg
+2025-09-27 22:42:21,373 - INFO: Loaded face: moly from image2.jpg
+2025-09-27 22:42:21,748 - INFO: Loaded face: obama from image1.jpeg
+2025-09-27 22:42:22,251 - INFO: Loaded face: obama from image1.jpg
+2025-09-27 22:42:25,495 - INFO: Loaded face: obama from image2.jpg
+2025-09-27 22:42:33,399 - INFO: Loaded face: rabita from image1.jpg
+2025-09-27 22:42:41,350 - INFO: Loaded face: rabita from image2.jpg
+2025-09-27 22:42:41,917 - INFO: Loaded face: Robin from avatar.png
+2025-09-27 22:42:42,433 - INFO: Loaded face: Robin from image1.jpg
+2025-09-27 22:42:43,163 - INFO: Loaded face: Robin from image2.jpg
+2025-09-27 22:42:43,163 - INFO: Loaded 10 face encodings for 4 people
+2025-09-27 22:42:43,571 - INFO: Alarm system initialized
+2025-09-27 22:42:43,571 - INFO: System initialization completed successfully
+2025-09-27 22:42:43,591 - INFO: Security monitoring started. Press 'q' to quit.
+2025-09-27 22:46:56 - SYSTEM_START: 
+2025-09-27 22:46:57 - SYSTEM_ERROR: list index out of range
+2025-09-27 22:46:57 - SYSTEM_SHUTDOWN: 
+2025-09-27 22:56:49 - SYSTEM_START: 
+2025-09-27 22:56:50 - SYSTEM_ERROR: list index out of range
+2025-09-27 22:56:50 - SYSTEM_SHUTDOWN: 

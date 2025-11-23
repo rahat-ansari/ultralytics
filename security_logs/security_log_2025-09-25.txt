@@ -1,0 +1,26 @@
+2025-09-25 21:12:47,226 - INFO: Loading YOLO model...
+2025-09-25 21:12:47,661 - INFO: Initializing MediaPipe face detection...
+2025-09-25 21:12:49,186 - INFO: Loaded face: Bappi from 1.jpg
+2025-09-25 21:12:50,711 - INFO: Loaded face: Bappi from 2.jpg
+2025-09-25 21:12:51,884 - INFO: Loaded face: messi from image1.jpg
+2025-09-25 21:12:53,635 - INFO: Loaded face: messi from image2.jpg
+2025-09-25 21:12:55,042 - INFO: Loaded face: moly from image1.jpg
+2025-09-25 21:12:56,388 - INFO: Loaded face: moly from image2.jpg
+2025-09-25 21:12:57,091 - INFO: Loaded face: obama from image1.jpeg
+2025-09-25 21:12:57,923 - INFO: Loaded face: obama from image1.jpg
+2025-09-25 21:13:02,177 - INFO: Loaded face: obama from image2.jpg
+2025-09-25 21:13:12,162 - INFO: Loaded face: rabita from image1.jpg
+2025-09-25 21:13:22,806 - INFO: Loaded face: rabita from image2.jpg
+2025-09-25 21:13:23,269 - WARNING: No faces found in family_members\rahat\image1.jpg
+2025-09-25 21:13:23,968 - INFO: Loaded face: rahat from image2.jpg
+2025-09-25 21:13:24,705 - INFO: Loaded face: Robin from avatar.png
+2025-09-25 21:13:25,525 - INFO: Loaded face: Robin from image1.jpg
+2025-09-25 21:13:26,728 - INFO: Loaded face: Robin from image2.jpg
+2025-09-25 21:13:29,202 - INFO: Loaded face: ruhama from WhatsApp Image 2025-09-06 at 22.03.18_72b704a8.jpg
+2025-09-25 21:13:31,346 - INFO: Loaded face: ruhama from WhatsApp Image 2025-09-06 at 22.03.19_e36d43bc.jpg
+2025-09-25 21:13:33,890 - INFO: Loaded face: ruhama from WhatsApp Image 2025-09-06 at 22.03.19_e4f95d7d.jpg
+2025-09-25 21:13:34,089 - INFO: Loaded 18 face encodings for 8 people
+2025-09-25 21:13:35,082 - INFO: Alarm system initialized
+2025-09-25 21:13:35,082 - INFO: System initialization completed successfully
+2025-09-25 21:13:35,837 - ERROR: Could not open video capture device
+2025-09-25 21:19:06 - SYSTEM_START: 

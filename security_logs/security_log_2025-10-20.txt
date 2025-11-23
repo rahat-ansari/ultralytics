@@ -1,0 +1,43 @@
+2025-10-20 00:05:02,699 - INFO: Loading YOLO model...
+2025-10-20 00:05:02,801 - INFO: Initializing MediaPipe face detection...
+2025-10-20 00:05:03,223 - INFO: Loaded face for barak_obama from face_1.jpeg
+2025-10-20 00:05:06,486 - INFO: Loaded face for barak_obama from face_2.jpg
+2025-10-20 00:05:06,877 - INFO: Loaded face for john_doe from face_1.jpg
+2025-10-20 00:05:07,919 - INFO: Loaded face for john_doe from face_2.jpg
+2025-10-20 00:05:07,920 - INFO: Loaded 4 encodings for 2 people
+2025-10-20 00:05:08,180 - INFO: Alarm loaded
+2025-10-20 00:05:08,181 - INFO: Initialization complete
+2025-10-20 00:07:04,495 - INFO: Loading YOLO model...
+2025-10-20 00:07:04,593 - INFO: Initializing MediaPipe face detection...
+2025-10-20 00:07:04,997 - INFO: Loaded face for barak_obama from face_1.jpeg
+2025-10-20 00:07:08,248 - INFO: Loaded face for barak_obama from face_2.jpg
+2025-10-20 00:07:08,687 - INFO: Loaded face for john_doe from face_1.jpg
+2025-10-20 00:07:09,629 - INFO: Loaded face for john_doe from face_2.jpg
+2025-10-20 00:07:09,629 - INFO: Loaded 4 encodings for 2 people
+2025-10-20 00:07:09,901 - INFO: Alarm loaded
+2025-10-20 00:07:09,902 - INFO: Initialization complete
+2025-10-20 00:07:09,995 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-20 00:08:57,961 - INFO: Shutdown complete
+2025-10-20 00:10:50,484 - INFO: Loading YOLO model...
+2025-10-20 00:10:50,576 - INFO: Initializing MediaPipe face detection...
+2025-10-20 00:10:50,968 - INFO: Loaded face for barak_obama from face_1.jpeg
+2025-10-20 00:10:54,203 - INFO: Loaded face for barak_obama from face_2.jpg
+2025-10-20 00:10:54,582 - INFO: Loaded face for john_doe from face_1.jpg
+2025-10-20 00:10:55,464 - INFO: Loaded face for john_doe from face_2.jpg
+2025-10-20 00:10:55,465 - INFO: Loaded 4 encodings for 2 people
+2025-10-20 00:10:55,749 - INFO: Alarm loaded
+2025-10-20 00:10:55,750 - INFO: Initialization complete
+2025-10-20 00:10:55,766 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-20 00:10:55,954 - INFO: Shutdown complete
+2025-10-20 00:11:07,021 - INFO: Loading YOLO model...
+2025-10-20 00:11:07,086 - INFO: Initializing MediaPipe face detection...
+2025-10-20 00:11:07,468 - INFO: Loaded face for barak_obama from face_1.jpeg
+2025-10-20 00:11:10,632 - INFO: Loaded face for barak_obama from face_2.jpg
+2025-10-20 00:11:11,020 - INFO: Loaded face for john_doe from face_1.jpg
+2025-10-20 00:11:11,893 - INFO: Loaded face for john_doe from face_2.jpg
+2025-10-20 00:11:11,894 - INFO: Loaded 4 encodings for 2 people
+2025-10-20 00:11:12,126 - INFO: Alarm loaded
+2025-10-20 00:11:12,127 - INFO: Initialization complete
+2025-10-20 00:11:12,140 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-20 00:13:16,822 - WARNING: Failed to grab frame
+2025-10-20 00:13:16,909 - INFO: Shutdown complete

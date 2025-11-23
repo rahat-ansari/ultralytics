@@ -1,0 +1,1329 @@
+2025-10-03 17:41:45,607 - INFO: Loading YOLO model...
+2025-10-03 17:41:45,756 - INFO: Initializing MediaPipe face detection...
+2025-10-03 17:41:46,204 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 17:41:46,715 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 17:41:49,911 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 17:41:50,352 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 17:41:50,730 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 17:41:51,356 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 17:41:51,358 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 17:41:51,730 - INFO: Alarm system initialized
+2025-10-03 17:41:51,730 - INFO: System initialization completed successfully
+2025-10-03 17:44:03,290 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 17:44:08,926 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:09,403 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:09,913 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:10,416 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:10,915 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:11,396 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:11,952 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:12,449 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 17:44:22,472 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:22,977 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:23,483 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:23,954 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:24,440 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:24,912 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:25,458 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:25,940 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:26,419 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:26,930 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:27,432 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:27,900 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:28,367 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:28,992 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:29,771 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:30,412 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:31,560 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:32,043 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:32,529 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:33,065 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:33,540 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:34,009 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:34,470 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:34,940 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:35,414 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:35,879 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:36,354 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:36,861 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:37,328 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:44:37,705 - INFO: System shutdown completed
+2025-10-03 17:52:38,869 - INFO: Loading YOLO model...
+2025-10-03 17:52:38,959 - INFO: Initializing MediaPipe face detection...
+2025-10-03 17:52:39,337 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 17:52:39,826 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 17:52:42,946 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 17:52:43,389 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 17:52:43,752 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 17:52:44,353 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 17:52:44,354 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 17:52:44,671 - INFO: Alarm system initialized
+2025-10-03 17:52:44,672 - INFO: System initialization completed successfully
+2025-10-03 17:54:53,718 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 17:55:00,185 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:04,309 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:04,947 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:09,503 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:12,966 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:13,607 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:17,888 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:18,369 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:22,849 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:26,447 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:31,427 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:31,908 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:39,364 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:39,829 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:40,810 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:55:46,585 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:56:00,763 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 17:56:10,866 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:56:22,116 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:56:22,944 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:56:29,650 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 17:56:39,792 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 17:56:51,319 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:01,952 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:03,892 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:04,541 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:11,669 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:12,321 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:21,282 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 17:57:31,802 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:32,282 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:32,754 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:33,228 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:33,760 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 17:57:44,215 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:45,019 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:45,823 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:46,648 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:47,787 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:57:48,272 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 17:57:58,472 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 17:58:08,795 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:09,288 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:09,784 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:10,270 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:10,742 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:11,213 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:11,694 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:12,265 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:12,881 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:13,362 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:13,983 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:14,449 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:14,920 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:15,399 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:16,171 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:16,640 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:17,106 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:17,713 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:18,363 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:18,830 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:19,298 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:19,760 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:20,230 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:21,548 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:22,025 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:23,784 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:25,932 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:26,403 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:31,697 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:33,487 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:37,279 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:38,090 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:38,914 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:39,414 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:40,111 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 17:58:50,299 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:50,773 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:51,405 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:53,046 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:53,841 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:54,814 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:55,786 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:56,576 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:58:57,238 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:14,257 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:19,222 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:20,194 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:20,661 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:21,150 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:21,620 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:22,604 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 17:59:33,324 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:33,938 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:34,406 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:34,880 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:35,517 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:36,153 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:36,617 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:37,095 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:37,565 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:38,033 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:38,509 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:38,979 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:39,464 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:39,932 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:40,414 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:40,898 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:41,380 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:41,884 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:42,371 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:42,875 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:43,357 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:43,842 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:44,325 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:44,807 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:45,300 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:45,783 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:46,274 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:46,752 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:47,225 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:47,690 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:48,171 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:48,642 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:49,112 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:49,569 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:50,031 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:50,737 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:51,209 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:51,674 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:52,148 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:52,632 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:53,101 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:53,603 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:54,088 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:54,555 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:55,024 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:55,500 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:55,977 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:56,444 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:56,912 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:57,403 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:59,207 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 17:59:59,696 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:00,197 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 18:00:10,304 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:10,775 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:12,077 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:13,194 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:13,814 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:14,287 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:15,264 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:15,889 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:16,864 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:17,348 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:17,832 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:18,312 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:18,784 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:19,300 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:19,764 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 18:00:29,831 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:30,307 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:30,930 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:31,420 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:32,063 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:33,448 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:33,920 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:34,399 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:34,875 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:35,343 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:35,844 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:36,339 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:36,801 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:37,267 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:37,722 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:38,201 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:38,709 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:39,183 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:39,700 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:40,165 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:40,636 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:41,109 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:41,576 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:42,040 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:42,517 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:42,985 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:43,450 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:43,926 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:44,397 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:44,916 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:45,393 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:45,854 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:46,328 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:46,795 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:47,274 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:47,749 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:48,226 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:00:48,713 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 18:01:02,411 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:10,373 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:24,831 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:28,631 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:30,445 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:32,555 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:33,849 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:34,485 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:35,963 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:36,477 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:36,993 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:37,472 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:37,941 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 18:01:47,989 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:48,473 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:49,028 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:49,498 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:01:49,971 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 18:02:00,167 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 18:02:00,656 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 18:02:05,919 - INFO: System shutdown completed
+2025-10-03 19:06:32,081 - INFO: Loading YOLO model...
+2025-10-03 19:06:32,245 - INFO: Initializing MediaPipe face detection...
+2025-10-03 19:06:32,665 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 19:06:33,176 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 19:06:36,362 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 19:06:36,797 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 19:06:37,165 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 19:06:37,767 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 19:06:37,768 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 19:06:38,206 - INFO: Alarm system initialized
+2025-10-03 19:06:38,207 - INFO: System initialization completed successfully
+2025-10-03 19:08:48,084 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 19:08:53,363 - ERROR: Runtime error: compute_face_descriptor(): incompatible function arguments. The following argument types are supported:
+    1. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], face: _dlib_pybind11.full_object_detection, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vector
+    2. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], num_jitters: int = 0) -> _dlib_pybind11.vector
+    3. (self: _dlib_pybind11.face_recognition_model_v1, img: numpy.ndarray[(rows,cols,3),numpy.uint8], faces: _dlib_pybind11.full_object_detections, num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectors
+    4. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], batch_faces: list[_dlib_pybind11.full_object_detections], num_jitters: int = 0, padding: float = 0.25) -> _dlib_pybind11.vectorss
+    5. (self: _dlib_pybind11.face_recognition_model_v1, batch_img: list[numpy.ndarray[(rows,cols,3),numpy.uint8]], num_jitters: int = 0) -> _dlib_pybind11.vectors
+
+Invoked with: <_dlib_pybind11.face_recognition_model_v1 object at 0x0000023C14D10D30>, array([[[ 26,  27,  22],
+        [ 23,  24,  20],
+        [ 22,  23,  20],
+        ...,
+        [113, 124, 135],
+        [104, 119, 129],
+        [ 87, 105, 115]],
+
+       [[ 26,  25,  21],
+        [ 26,  25,  21],
+        [ 26,  28,  23],
+        ...,
+        [109, 124, 138],
+        [108, 123, 137],
+        [ 95, 110, 124]],
+
+       [[ 26,  24,  24],
+        [ 25,  23,  23],
+        [ 27,  25,  26],
+        ...,
+        [110, 126, 136],
+        [111, 127, 139],
+        [102, 117, 131]],
+
+       ...,
+
+       [[191, 204, 201],
+        [183, 198, 192],
+        [177, 190, 187],
+        ...,
+        [ 97, 107, 122],
+        [ 94, 104, 117],
+        [100, 109, 120]],
+
+       [[194, 207, 206],
+        [192, 204, 203],
+        [181, 193, 193],
+        ...,
+        [ 84,  99, 116],
+        [ 94, 108, 125],
+        [101, 115, 132]],
+
+       [[190, 202, 202],
+        [187, 198, 200],
+        [179, 190, 191],
+        ...,
+        [ 98, 108, 125],
+        [104, 113, 131],
+        [108, 118, 135]]], dtype=uint8), <_dlib_pybind11.full_object_detection object at 0x0000023C5D65D8F0>, 1
+2025-10-03 19:08:53,693 - INFO: System shutdown completed
+2025-10-03 19:23:03,964 - INFO: Loading YOLO model...
+2025-10-03 19:23:04,031 - INFO: Initializing MediaPipe face detection...
+2025-10-03 19:23:04,415 - INFO: Loaded face for obama from image1.jpeg
+2025-10-03 19:23:04,904 - INFO: Loaded face for obama from image1.jpg
+2025-10-03 19:23:08,025 - INFO: Loaded face for obama from image2.jpg
+2025-10-03 19:23:08,459 - INFO: Loaded face for Robin from avatar.png
+2025-10-03 19:23:08,812 - INFO: Loaded face for Robin from image1.jpg
+2025-10-03 19:23:09,415 - INFO: Loaded face for Robin from image2.jpg
+2025-10-03 19:23:09,416 - INFO: Loaded 6 encodings for 2 people
+2025-10-03 19:23:09,758 - INFO: Alarm loaded
+2025-10-03 19:23:09,760 - INFO: Initialization complete
+2025-10-03 19:27:13,288 - INFO: Loading YOLO model...
+2025-10-03 19:27:13,357 - INFO: Initializing MediaPipe face detection...
+2025-10-03 19:27:13,741 - INFO: Loaded face for obama from image1.jpeg
+2025-10-03 19:27:14,247 - INFO: Loaded face for obama from image1.jpg
+2025-10-03 19:27:17,361 - INFO: Loaded face for obama from image2.jpg
+2025-10-03 19:27:17,795 - INFO: Loaded face for Robin from avatar.png
+2025-10-03 19:27:18,157 - INFO: Loaded face for Robin from image1.jpg
+2025-10-03 19:27:18,771 - INFO: Loaded face for Robin from image2.jpg
+2025-10-03 19:27:18,772 - INFO: Loaded 6 encodings for 2 people
+2025-10-03 19:27:19,066 - INFO: Alarm loaded
+2025-10-03 19:27:19,067 - INFO: Initialization complete
+2025-10-03 19:37:38,827 - INFO: Loading YOLO model...
+2025-10-03 19:37:38,896 - INFO: Initializing MediaPipe face detection...
+2025-10-03 19:37:39,287 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 19:37:39,780 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 19:37:42,921 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 19:37:43,355 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 19:37:43,714 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 19:37:44,311 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 19:37:44,312 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 19:37:44,562 - INFO: Alarm system initialized
+2025-10-03 19:37:44,562 - INFO: System initialization completed successfully
+2025-10-03 19:39:54,570 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 19:39:58,531 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:39:59,221 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:39:59,859 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:00,522 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:01,238 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 19:40:11,749 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:12,400 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 19:40:22,770 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:23,407 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:24,033 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:24,669 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:25,294 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:25,925 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:26,556 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:27,192 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:29,153 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:29,791 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:30,440 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:31,075 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:31,781 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:32,428 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:33,075 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:33,713 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:34,408 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:35,050 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:35,680 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:36,309 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:36,937 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:37,593 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:38,222 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:38,897 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:39,601 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:40,326 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:41,036 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:41,711 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:42,450 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:43,177 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:43,813 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:44,460 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:45,145 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:45,793 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:46,442 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:47,086 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:47,727 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:48,425 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:49,071 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:49,804 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:50,550 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:51,337 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:51,997 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:52,627 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:53,263 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:40:53,891 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 19:41:04,217 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:41:04,863 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:41:05,507 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:41:06,156 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 19:41:06,521 - INFO: System shutdown completed
+2025-10-03 19:57:48,179 - INFO: Loading YOLO model...
+2025-10-03 19:57:48,293 - INFO: Initializing MediaPipe face detection...
+2025-10-03 19:57:48,675 - INFO: Loaded face for obama from image1.jpeg
+2025-10-03 19:57:49,199 - INFO: Loaded face for obama from image1.jpg
+2025-10-03 19:57:52,275 - INFO: Loaded face for obama from image2.jpg
+2025-10-03 19:57:52,714 - INFO: Loaded face for Robin from avatar.png
+2025-10-03 19:57:53,080 - INFO: Loaded face for Robin from image1.jpg
+2025-10-03 19:57:53,701 - INFO: Loaded face for Robin from image2.jpg
+2025-10-03 19:57:53,702 - INFO: Loaded 6 encodings for 2 people
+2025-10-03 19:57:54,045 - INFO: Alarm loaded
+2025-10-03 19:57:54,046 - INFO: Initialization complete
+2025-10-03 20:15:00,556 - INFO: Loading YOLO model...
+2025-10-03 20:15:00,643 - INFO: Initializing MediaPipe face detection...
+2025-10-03 20:15:01,018 - INFO: Loaded face for obama from image1.jpeg
+2025-10-03 20:15:01,514 - INFO: Loaded face for obama from image1.jpg
+2025-10-03 20:15:04,604 - INFO: Loaded face for obama from image2.jpg
+2025-10-03 20:15:05,042 - INFO: Loaded face for Robin from avatar.png
+2025-10-03 20:15:05,390 - INFO: Loaded face for Robin from image1.jpg
+2025-10-03 20:15:05,989 - INFO: Loaded face for Robin from image2.jpg
+2025-10-03 20:15:05,990 - INFO: Loaded 6 encodings for 2 people
+2025-10-03 20:15:05,992 - INFO: Alarm loaded
+2025-10-03 20:15:05,993 - INFO: Initialization complete
+2025-10-03 20:17:15,490 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-03 20:17:43,085 - INFO: Known person confirmed: Robin; objects: None (no alarm)
+2025-10-03 20:17:56,621 - INFO: Known person confirmed: Robin; objects: None (no alarm)
+2025-10-03 20:18:03,303 - INFO: Known person confirmed: Robin; objects: None (no alarm)
+2025-10-03 20:18:27,159 - INFO: Known person confirmed: Robin; objects: None (no alarm)
+2025-10-03 20:20:21,297 - INFO: Shutdown complete
+2025-10-03 20:51:57,694 - INFO: Loading YOLO model...
+2025-10-03 20:51:57,811 - INFO: Initializing MediaPipe face detection...
+2025-10-03 20:51:58,193 - INFO: Loaded face for obama from image1.jpeg
+2025-10-03 20:51:58,711 - INFO: Loaded face for obama from image1.jpg
+2025-10-03 20:52:01,806 - INFO: Loaded face for obama from image2.jpg
+2025-10-03 20:52:02,247 - INFO: Loaded face for Robin from avatar.png
+2025-10-03 20:52:02,610 - INFO: Loaded face for Robin from image1.jpg
+2025-10-03 20:52:03,232 - INFO: Loaded face for Robin from image2.jpg
+2025-10-03 20:52:03,232 - INFO: Loaded 6 encodings for 2 people
+2025-10-03 20:52:03,590 - INFO: Alarm loaded
+2025-10-03 20:52:03,591 - INFO: Initialization complete
+2025-10-03 20:54:12,065 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-03 20:56:53,959 - INFO: Shutdown complete
+2025-10-03 21:01:24,285 - INFO: Loading YOLO model...
+2025-10-03 21:01:24,359 - INFO: Initializing MediaPipe face detection...
+2025-10-03 21:01:24,738 - INFO: Loaded face for obama from image1.jpeg
+2025-10-03 21:01:25,242 - INFO: Loaded face for obama from image1.jpg
+2025-10-03 21:01:28,294 - INFO: Loaded face for obama from image2.jpg
+2025-10-03 21:01:28,719 - INFO: Loaded face for Robin from avatar.png
+2025-10-03 21:01:29,081 - INFO: Loaded face for Robin from image1.jpg
+2025-10-03 21:01:29,675 - INFO: Loaded face for Robin from image2.jpg
+2025-10-03 21:01:29,676 - INFO: Loaded 6 encodings for 2 people
+2025-10-03 21:01:29,980 - INFO: Alarm loaded
+2025-10-03 21:01:29,981 - INFO: Initialization complete
+2025-10-03 22:31:38,471 - INFO: Loading YOLO model...
+2025-10-03 22:31:38,544 - INFO: Initializing MediaPipe face detection...
+2025-10-03 22:31:38,929 - INFO: Loaded face for obama from image1.jpeg
+2025-10-03 22:31:39,431 - INFO: Loaded face for obama from image1.jpg
+2025-10-03 22:31:42,625 - INFO: Loaded face for obama from image2.jpg
+2025-10-03 22:31:43,058 - INFO: Loaded face for Robin from avatar.png
+2025-10-03 22:31:43,411 - INFO: Loaded face for Robin from image1.jpg
+2025-10-03 22:31:44,010 - INFO: Loaded face for Robin from image2.jpg
+2025-10-03 22:31:44,011 - INFO: Loaded 6 encodings for 2 people
+2025-10-03 22:31:44,326 - INFO: Alarm loaded
+2025-10-03 22:31:44,327 - INFO: Initialization complete
+2025-10-03 22:33:53,986 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-03 22:35:44,660 - INFO: Shutdown complete
+2025-10-03 22:36:52,825 - INFO: Loading YOLO model...
+2025-10-03 22:36:52,887 - INFO: Initializing MediaPipe face detection...
+2025-10-03 22:36:53,299 - INFO: Loaded face for obama from image1.jpeg
+2025-10-03 22:36:53,798 - INFO: Loaded face for obama from image1.jpg
+2025-10-03 22:36:56,957 - INFO: Loaded face for obama from image2.jpg
+2025-10-03 22:36:57,394 - INFO: Loaded face for Robin from avatar.png
+2025-10-03 22:36:57,749 - INFO: Loaded face for Robin from image1.jpg
+2025-10-03 22:36:58,352 - INFO: Loaded face for Robin from image2.jpg
+2025-10-03 22:36:58,353 - INFO: Loaded 6 encodings for 2 people
+2025-10-03 22:36:58,610 - INFO: Alarm loaded
+2025-10-03 22:36:58,611 - INFO: Initialization complete
+2025-10-03 22:36:58,714 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-03 22:38:35,684 - WARNING: Failed to grab frame
+2025-10-03 22:38:35,777 - INFO: Shutdown complete
+2025-10-03 22:39:52,040 - INFO: Loading YOLO model...
+2025-10-03 22:39:52,103 - INFO: Initializing MediaPipe face detection...
+2025-10-03 22:39:52,495 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 22:39:52,989 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 22:39:56,046 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 22:39:56,480 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 22:39:56,837 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 22:39:57,449 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 22:39:57,450 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 22:39:57,713 - INFO: Alarm system initialized
+2025-10-03 22:39:57,714 - INFO: System initialization completed successfully
+2025-10-03 22:42:07,352 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 22:42:10,337 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:10,817 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:11,313 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:11,837 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:12,311 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:12,847 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:13,350 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:13,920 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 22:42:27,289 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:27,778 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:28,279 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:28,765 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:29,257 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:29,738 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:30,221 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:30,741 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:31,204 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:31,682 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:32,148 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:32,624 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:33,164 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:33,644 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:34,103 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:34,561 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:35,188 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:36,980 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:38,467 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:38,926 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:39,404 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:40,187 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:40,815 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:41,795 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:43,936 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:45,747 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:48,025 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:48,819 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:49,451 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:50,577 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:51,067 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:51,544 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:53,325 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:54,619 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:55,598 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:56,077 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:56,532 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:57,980 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:58,455 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:42:58,925 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:00,062 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:00,697 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:01,507 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:01,984 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:02,611 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:03,240 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:03,707 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:06,651 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:09,114 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:10,237 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:11,720 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:12,200 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:12,664 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:13,131 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:13,613 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:14,216 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:14,702 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:15,176 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:15,655 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:16,114 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:16,580 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:17,054 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:17,530 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:18,034 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:18,682 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:19,158 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:19,624 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:20,093 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:20,547 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:21,191 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:21,657 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:22,137 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:22,600 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:23,057 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:23,859 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:24,356 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:24,813 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:25,271 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:25,764 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:26,314 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:26,808 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:27,325 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:27,823 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:28,295 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:28,827 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:29,307 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:29,801 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:30,284 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:43:30,640 - INFO: System shutdown completed
+2025-10-03 22:43:51,207 - INFO: Loading YOLO model...
+2025-10-03 22:43:51,270 - INFO: Initializing MediaPipe face detection...
+2025-10-03 22:43:51,645 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 22:43:52,163 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 22:43:55,239 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 22:43:55,699 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 22:43:56,049 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 22:43:56,649 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 22:43:56,650 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 22:43:56,896 - INFO: Alarm system initialized
+2025-10-03 22:43:56,897 - INFO: System initialization completed successfully
+2025-10-03 22:46:07,496 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 22:46:10,947 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:11,449 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:11,979 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:12,522 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:13,034 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:13,549 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:14,044 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:14,530 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:15,008 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:15,521 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:16,035 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:16,511 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:17,026 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:17,534 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:18,032 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:18,544 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:19,016 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:19,493 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:19,967 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:24,251 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:24,716 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:25,350 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:25,989 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:26,456 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:26,920 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:41,022 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:41,506 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:41,964 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:42,443 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:42,905 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:43,374 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:43,828 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:44,301 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:44,797 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:45,272 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:45,748 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:46,256 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:46,730 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:47,205 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:47,669 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:48,142 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:48,615 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:49,079 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:49,538 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:50,001 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:50,470 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:50,928 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:51,399 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:51,868 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:52,338 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:52,816 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:53,280 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:53,748 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:54,219 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:54,681 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:55,311 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:55,770 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:56,236 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:56,697 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:57,161 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:57,647 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:58,112 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:58,579 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:46:59,034 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:02,170 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:03,324 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 22:47:16,794 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:17,278 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:17,766 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:18,250 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:18,764 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:19,265 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:19,747 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:20,263 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:20,749 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:21,227 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:21,706 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:22,602 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:23,082 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:23,596 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:24,081 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:24,562 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:25,037 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:28,556 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:29,049 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:29,820 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:30,293 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:36,108 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:36,580 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:37,045 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:37,500 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:37,972 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:38,447 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:38,910 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:39,377 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:39,850 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:40,303 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:40,770 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:41,232 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:41,694 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:47:42,113 - INFO: System shutdown completed
+2025-10-03 22:48:24,165 - INFO: Loading YOLO model...
+2025-10-03 22:48:24,231 - INFO: Initializing MediaPipe face detection...
+2025-10-03 22:48:24,607 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 22:48:25,102 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 22:48:50,753 - INFO: Loading YOLO model...
+2025-10-03 22:48:50,826 - INFO: Initializing MediaPipe face detection...
+2025-10-03 22:48:51,213 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 22:48:51,721 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 22:48:54,869 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 22:48:55,310 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 22:48:55,699 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 22:48:56,305 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 22:48:56,306 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 22:48:56,561 - INFO: Alarm system initialized
+2025-10-03 22:48:56,562 - INFO: System initialization completed successfully
+2025-10-03 22:48:56,578 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 22:50:33,681 - WARNING: Failed to grab frame
+2025-10-03 22:50:33,747 - INFO: System shutdown completed
+2025-10-03 22:54:25,987 - INFO: Loading YOLO model...
+2025-10-03 22:54:26,063 - INFO: Initializing MediaPipe face detection...
+2025-10-03 22:54:26,485 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 22:54:27,006 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 22:54:30,205 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 22:54:30,651 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 22:54:31,022 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 22:54:31,628 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 22:54:31,629 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 22:54:31,892 - INFO: Alarm system initialized
+2025-10-03 22:54:31,892 - INFO: System initialization completed successfully
+2025-10-03 22:56:42,656 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 22:56:48,495 - INFO: ALERT: UNKNOWN person detected with objects: laptop
+2025-10-03 22:56:58,712 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:56:59,187 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:56:59,658 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:00,123 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:00,585 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:01,039 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:01,504 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:01,965 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:02,428 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:02,897 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:03,378 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:03,843 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:04,300 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:04,769 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:05,240 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:05,713 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:06,182 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:06,655 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:07,114 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:07,575 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:08,036 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:08,513 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:08,998 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:09,477 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:09,958 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:10,475 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:10,952 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:11,413 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:11,872 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:12,340 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:12,805 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:13,265 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:13,746 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:14,204 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:14,674 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:15,146 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:15,644 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:16,096 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:16,554 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:17,025 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:17,483 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:17,942 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:18,560 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:19,272 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:19,727 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:20,184 - INFO: Known person 'Robin' detected. No alarm triggered.
+2025-10-03 22:57:20,643 - INFO: ALERT: UNKNOWN person detected with objects: None
+2025-10-03 22:57:27,748 - INFO: System shutdown completed
+2025-10-03 22:57:32,228 - INFO: Loading YOLO model...
+2025-10-03 22:57:32,293 - INFO: Initializing MediaPipe face detection...
+2025-10-03 22:57:32,694 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 22:57:33,201 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 22:57:36,323 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 22:57:36,756 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 22:57:37,107 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 22:57:37,706 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 22:57:37,706 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 22:57:37,970 - INFO: Alarm system initialized
+2025-10-03 22:57:37,972 - INFO: System initialization completed successfully
+2025-10-03 22:57:37,989 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 22:57:53,547 - INFO: System shutdown completed
+2025-10-03 22:59:45,450 - INFO: Loading YOLO model...
+2025-10-03 22:59:45,517 - INFO: Initializing MediaPipe face detection...
+2025-10-03 22:59:45,899 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 22:59:46,393 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 22:59:49,515 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 22:59:49,953 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 22:59:50,320 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 22:59:50,941 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 22:59:50,942 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 22:59:51,216 - INFO: Alarm system initialized
+2025-10-03 22:59:51,217 - INFO: System initialization completed successfully
+2025-10-03 22:59:51,234 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 23:00:34,041 - INFO: System shutdown completed
+2025-10-03 23:01:00,349 - INFO: Loading YOLO model...
+2025-10-03 23:01:00,405 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:01:00,774 - INFO: Loaded face for obama from image1.jpeg
+2025-10-03 23:01:01,256 - INFO: Loaded face for obama from image1.jpg
+2025-10-03 23:01:04,385 - INFO: Loaded face for obama from image2.jpg
+2025-10-03 23:01:04,816 - INFO: Loaded face for Robin from avatar.png
+2025-10-03 23:01:05,167 - INFO: Loaded face for Robin from image1.jpg
+2025-10-03 23:01:05,776 - INFO: Loaded face for Robin from image2.jpg
+2025-10-03 23:01:05,776 - INFO: Loaded 6 encodings for 2 people
+2025-10-03 23:01:06,026 - INFO: Alarm loaded
+2025-10-03 23:01:06,027 - INFO: Initialization complete
+2025-10-03 23:03:16,469 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-03 23:04:48,384 - INFO: Shutdown complete
+2025-10-03 23:07:06,394 - INFO: Loading YOLO model...
+2025-10-03 23:07:06,473 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:07:06,876 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 23:07:07,379 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 23:07:10,474 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 23:07:10,908 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 23:07:11,257 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 23:07:11,860 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 23:07:11,861 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 23:07:12,130 - INFO: Alarm system initialized
+2025-10-03 23:07:12,131 - INFO: System initialization completed successfully
+2025-10-03 23:07:12,146 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 23:09:55,073 - INFO: Loading YOLO model...
+2025-10-03 23:09:55,139 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:09:55,519 - INFO: Loaded face for obama from image1.jpeg
+2025-10-03 23:09:56,020 - INFO: Loaded face for obama from image1.jpg
+2025-10-03 23:09:59,175 - INFO: Loaded face for obama from image2.jpg
+2025-10-03 23:09:59,615 - INFO: Loaded face for Robin from avatar.png
+2025-10-03 23:09:59,977 - INFO: Loaded face for Robin from image1.jpg
+2025-10-03 23:10:00,592 - INFO: Loaded face for Robin from image2.jpg
+2025-10-03 23:10:00,593 - INFO: Loaded 6 encodings for 2 people
+2025-10-03 23:10:00,863 - INFO: Alarm loaded
+2025-10-03 23:10:00,864 - INFO: Initialization complete
+2025-10-03 23:12:10,758 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-03 23:13:32,726 - INFO: Shutdown complete
+2025-10-03 23:25:00,684 - INFO: Loading YOLO model...
+2025-10-03 23:25:00,755 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:25:01,157 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 23:25:01,660 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 23:25:04,851 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 23:25:05,314 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 23:25:05,673 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 23:25:06,279 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 23:25:06,280 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 23:25:06,604 - INFO: Alarm system initialized
+2025-10-03 23:25:06,604 - INFO: System initialization completed successfully
+2025-10-03 23:25:06,621 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 23:26:31,919 - INFO: System shutdown completed
+2025-10-03 23:27:11,466 - INFO: Loading YOLO model...
+2025-10-03 23:27:11,466 - INFO: Loading YOLO model...
+2025-10-03 23:27:11,686 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:27:11,686 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:27:12,060 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 23:27:12,060 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 23:27:12,551 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 23:27:12,551 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 23:27:15,654 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 23:27:15,654 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 23:27:16,120 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 23:27:16,120 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 23:27:16,489 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 23:27:16,489 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 23:27:17,107 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 23:27:17,107 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 23:27:17,109 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 23:27:17,109 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 23:27:17,352 - INFO: Alarm system initialized
+2025-10-03 23:27:17,352 - INFO: Alarm system initialized
+2025-10-03 23:27:17,353 - INFO: System initialization completed successfully
+2025-10-03 23:27:17,353 - INFO: System initialization completed successfully
+2025-10-03 23:29:00,123 - INFO: Loading YOLO model...
+2025-10-03 23:29:00,267 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:29:00,637 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 23:29:01,147 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 23:29:04,225 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 23:29:04,647 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 23:29:04,996 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 23:29:05,591 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 23:29:05,591 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 23:29:05,824 - INFO: Alarm system initialized
+2025-10-03 23:29:05,825 - INFO: System initialization completed successfully
+2025-10-03 23:29:58,354 - INFO: Loading YOLO model...
+2025-10-03 23:29:58,512 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:29:58,889 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 23:29:59,398 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 23:30:02,479 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 23:30:02,905 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 23:30:03,264 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 23:30:03,856 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 23:30:03,856 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 23:30:04,119 - INFO: Alarm system initialized
+2025-10-03 23:30:04,120 - INFO: System initialization completed successfully
+2025-10-03 23:32:14,542 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 23:32:38,781 - INFO: ALERT: Known person Robin detected with objects: None
+2025-10-03 23:34:30,844 - INFO: Loading YOLO model...
+2025-10-03 23:34:30,990 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:34:31,375 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 23:34:31,884 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 23:34:35,045 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 23:34:35,473 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 23:34:35,838 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 23:34:36,444 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 23:34:36,444 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 23:34:36,693 - INFO: Alarm system initialized
+2025-10-03 23:34:36,693 - INFO: System initialization completed successfully
+2025-10-03 23:36:46,812 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 23:37:23,898 - INFO: System shutdown completed
+2025-10-03 23:38:05,026 - INFO: Loading YOLO model...
+2025-10-03 23:38:05,026 - INFO: Loading YOLO model...
+2025-10-03 23:38:05,176 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:38:05,176 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:38:05,536 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 23:38:05,536 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 23:38:06,042 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 23:38:06,042 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 23:40:48,075 - INFO: Loading YOLO model...
+2025-10-03 23:40:48,221 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:40:48,613 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 23:40:49,156 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 23:40:52,231 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 23:40:52,646 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 23:40:52,994 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 23:40:53,588 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 23:40:53,589 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 23:40:53,851 - INFO: Alarm system initialized
+2025-10-03 23:40:53,851 - INFO: System initialization completed successfully
+2025-10-03 23:40:53,869 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 23:41:18,088 - ERROR: confirm_face_from_roi failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4214: error: (-215:Assertion failed) !dsize.empty() in function 'cv::resize'
+
+2025-10-03 23:41:18,315 - ERROR: confirm_face_from_roi failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-03 23:41:20,288 - ERROR: confirm_face_from_roi failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4214: error: (-215:Assertion failed) !dsize.empty() in function 'cv::resize'
+
+2025-10-03 23:41:22,341 - ERROR: confirm_face_from_roi failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-03 23:41:35,080 - ERROR: confirm_face_from_roi failed: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4208: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+2025-10-03 23:41:49,557 - INFO: System shutdown completed
+2025-10-03 23:44:56 - SYSTEM_START: 
+2025-10-03 23:44:57 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:57 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:57 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:57 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:58 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:44:58 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:58 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:58 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:58 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:58 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:44:58 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:58 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:59 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:59 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:59 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:44:59 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:59 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:59 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:59 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:44:59 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:00 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:00 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:00 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:00 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:00 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:00 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:00 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:00 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:00 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:01 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:01 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:01 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:01 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:01 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:01 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:01 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:01 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:01 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:01 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:02 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:02 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:02 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:02 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:02 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:02 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:02 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:02 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:02 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:02 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:03 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:03 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:03 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:03 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:03 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:03 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:03 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:03 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:04 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:04 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:04 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:04 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:04 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:04 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:04 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:04 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:04 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:04 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:04 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:04 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:05 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:05 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:05 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:05 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:05 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:05 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:05 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:05 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:05 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:05 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:06 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:06 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:06 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:06 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:06 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:06 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:06 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:06 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:07 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:07 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:07 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:07 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:07 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:07 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:07 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:07 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:08 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:08 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:08 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:08 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:08 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:08 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:08 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:08 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:08 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:09 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:09 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:09 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:09 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:09 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:09 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:09 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:09 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:09 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:09 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:10 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:10 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:10 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:10 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:10 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:10 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:10 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:10 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:10 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:10 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:11 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:11 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:11 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:11 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:11 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:11 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:12 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:12 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:12 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:12 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:12 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:12 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:12 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:12 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:12 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:13 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:13 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:13 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:13 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:13 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:13 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:13 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:13 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:13 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:13 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:14 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:14 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:14 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:14 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:14 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:14 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:14 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:14 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:14 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:14 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:15 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:15 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:15 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:15 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:15 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:15 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:15 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:15 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:15 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:16 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:16 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:16 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:16 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:16 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:16 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:16 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:16 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:17 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:17 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:17 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:17 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:17 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:17 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:17 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:17 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:18 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:18 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:18 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:18 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:18 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:18 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:18 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:18 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:18 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:18 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:19 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:19 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:19 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:19 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:19 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:19 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:19 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:19 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:19 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:19 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:20 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:20 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:20 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:20 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:20 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:20 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:20 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:21 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:21 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:21 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:21 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:21 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:21 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:21 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:21 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:22 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:22 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:22 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:22 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:22 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:22 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:22 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:22 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:22 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:22 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:23 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:23 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:23 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:23 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:23 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:23 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:23 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:23 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:23 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:24 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:24 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:24 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:24 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:24 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:24 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:24 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:25 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:25 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:25 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:25 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:25 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:25 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:25 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:25 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:25 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:26 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:26 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:26 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:26 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:26 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:26 - KNOWN_PERSON: Detected: Robin with objects: None
+2025-10-03 23:45:26 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:26 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:26 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:26 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:27 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:27 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:27 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:27 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:27 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:27 - UNKNOWN_PERSON: With objects: None
+2025-10-03 23:45:27 - SYSTEM_SHUTDOWN: 
+2025-10-03 23:45:35,428 - INFO: Loading YOLO model...
+2025-10-03 23:45:35,551 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:45:35,917 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 23:45:36,413 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 23:45:39,477 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 23:45:39,897 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 23:45:40,254 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 23:45:40,843 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 23:45:40,844 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 23:45:41,103 - INFO: Alarm system initialized
+2025-10-03 23:45:41,103 - INFO: System initialization completed successfully
+2025-10-03 23:45:41,116 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 23:46:02,771 - INFO: System shutdown completed
+2025-10-03 23:47:57,405 - INFO: Loading YOLO model...
+2025-10-03 23:47:57,472 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:47:57,847 - INFO: Loaded face: obama from image1.jpeg
+2025-10-03 23:47:58,345 - INFO: Loaded face: obama from image1.jpg
+2025-10-03 23:48:01,441 - INFO: Loaded face: obama from image2.jpg
+2025-10-03 23:48:01,864 - INFO: Loaded face: Robin from avatar.png
+2025-10-03 23:48:02,223 - INFO: Loaded face: Robin from image1.jpg
+2025-10-03 23:48:02,835 - INFO: Loaded face: Robin from image2.jpg
+2025-10-03 23:48:02,835 - INFO: Loaded 6 face encodings for 2 people
+2025-10-03 23:48:03,101 - INFO: Alarm system initialized
+2025-10-03 23:48:03,102 - INFO: System initialization completed successfully
+2025-10-03 23:48:03,120 - INFO: Security monitoring started. Press 'q' to quit.
+2025-10-03 23:49:19,703 - INFO: System shutdown completed
+2025-10-03 23:49:28,166 - INFO: Loading YOLO model...
+2025-10-03 23:49:28,233 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:49:28,631 - INFO: Loaded face for obama from image1.jpeg
+2025-10-03 23:49:29,142 - INFO: Loaded face for obama from image1.jpg
+2025-10-03 23:49:32,230 - INFO: Loaded face for obama from image2.jpg
+2025-10-03 23:49:32,657 - INFO: Loaded face for Robin from avatar.png
+2025-10-03 23:49:33,013 - INFO: Loaded face for Robin from image1.jpg
+2025-10-03 23:49:33,612 - INFO: Loaded face for Robin from image2.jpg
+2025-10-03 23:49:33,613 - INFO: Loaded 6 encodings for 2 people
+2025-10-03 23:49:33,868 - INFO: Alarm loaded
+2025-10-03 23:49:33,869 - INFO: Initialization complete
+2025-10-03 23:51:44,729 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-03 23:52:48,240 - INFO: Known person confirmed: Robin; objects: None (no alarm)
+2025-10-03 23:52:50,253 - INFO: Known person confirmed: Robin; objects: None (no alarm)
+2025-10-03 23:53:19,260 - INFO: Known person confirmed: Robin; objects: None (no alarm)
+2025-10-03 23:54:07,987 - INFO: Shutdown complete
+2025-10-03 23:54:59,121 - INFO: Loading YOLO model...
+2025-10-03 23:54:59,188 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:54:59,562 - INFO: Loaded face for obama from image1.jpeg
+2025-10-03 23:55:00,066 - INFO: Loaded face for obama from image1.jpg
+2025-10-03 23:55:03,157 - INFO: Loaded face for obama from image2.jpg
+2025-10-03 23:55:03,604 - INFO: Loaded face for Robin from avatar.png
+2025-10-03 23:55:03,965 - INFO: Loaded face for Robin from image1.jpg
+2025-10-03 23:55:04,585 - INFO: Loaded face for Robin from image2.jpg
+2025-10-03 23:55:04,586 - INFO: Loaded 6 encodings for 2 people
+2025-10-03 23:55:04,839 - INFO: Alarm loaded
+2025-10-03 23:55:04,840 - INFO: Initialization complete
+2025-10-03 23:55:04,858 - INFO: Monitoring started. Press 'q' to quit.
+2025-10-03 23:56:45,817 - WARNING: Failed to grab frame
+2025-10-03 23:56:45,898 - INFO: Shutdown complete
+2025-10-03 23:57:37,662 - INFO: Loading YOLO model...
+2025-10-03 23:57:37,737 - INFO: Initializing MediaPipe face detection...
+2025-10-03 23:57:38,109 - INFO: Loaded face for obama from image1.jpeg
+2025-10-03 23:57:38,600 - INFO: Loaded face for obama from image1.jpg
+2025-10-03 23:57:41,709 - INFO: Loaded face for obama from image2.jpg
+2025-10-03 23:57:42,146 - INFO: Loaded face for Robin from avatar.png
+2025-10-03 23:57:42,501 - INFO: Loaded face for Robin from image1.jpg
+2025-10-03 23:57:43,111 - INFO: Loaded face for Robin from image2.jpg
+2025-10-03 23:57:43,112 - INFO: Loaded 6 encodings for 2 people
+2025-10-03 23:57:43,362 - INFO: Alarm loaded
+2025-10-03 23:57:43,362 - INFO: Initialization complete
+2025-10-03 23:57:43,376 - INFO: Monitoring started. Press 'q' to quit.
