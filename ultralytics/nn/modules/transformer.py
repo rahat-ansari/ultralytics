@@ -350,8 +350,7 @@ class LayerNorm2d(nn.Module):
     Attributes:
         weight (nn.Parameter): Learnable scale parameter.
         bias (nn.Parameter): Learnable bias parameter.
-        eps (float): Small constant for numerical stability. =======
-        Original implementations
+        eps (float): Small constant for numerical stability. ======= Original implementations
         in https://github.com/facebookresearch/detectron2/blob/main/detectron2/layers/batch_norm.py
         and https://github.com/facebookresearch/ConvNeXt/blob/main/models/convnext.py.
         >>>>>>> 02121a52dd0a636899376093a514e43cc27a4435
