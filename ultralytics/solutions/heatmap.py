@@ -34,7 +34,11 @@ class Heatmap(ObjectCounter):
         >>> processed_frame = heatmap.process(frame)
     """
 
+<<<<<<< HEAD
     def __init__(self, **kwargs: Any) -> None:
+=======
+    def __init__(self, **kwargs):
+>>>>>>> 9b334be1f571177e7a80b88115a204423ccaba73
         """Initialize the Heatmap class for real-time video stream heatmap generation based on object tracks.
 
         Args:
