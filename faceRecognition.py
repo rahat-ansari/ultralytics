@@ -4,7 +4,7 @@ import numpy as np
 
 
 
-image = face_recognition.load_image_file("./images/obama/image1.jpg")
+image = face_recognition.load_image_file("./Test-Video-And-Images/barackObama.jpg")
 
 cv2.imshow("Image", cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
 cv2.waitKey(0)
@@ -49,10 +49,10 @@ cv2.waitKey(0)
 
 
 # Face Recognition
-image = face_recognition.load_image_file("./images/obama/image1.jpg")
+image = face_recognition.load_image_file("./Test-Video-And-Images/barackObama.jpg")
 #unknown_image = face_recognition.load_image_file("C:/Users/nhoei/barackObama2.jpg")
 #unknown_image = face_recognition.load_image_file("C:/Users/nhoei/elonMusk.jpg")
-unknown_image = face_recognition.load_image_file("./images/messi/image1.jpg")
+unknown_image = face_recognition.load_image_file("./Test-Video-And-Images/tigerWoods.jpeg")
 
 image_encoding = face_recognition.face_encodings(image)[0]
 unknown_encoding = face_recognition.face_encodings(unknown_image)[0]

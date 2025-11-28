@@ -4,17 +4,17 @@ import numpy as np
 
 
 # Load a sample picture and learn how to recognize it.
-obama_image = face_recognition.load_image_file("./images/obama/image1.jpg")
+obama_image = face_recognition.load_image_file("Test-Video-And-Images/barackObama.jpg")
 obama_face_encoding = face_recognition.face_encodings(obama_image)[0]
 
 # Load a second sample picture and learn how to recognize it.
-elon_image = face_recognition.load_image_file("./images/Robin/image1.jpg")
+elon_image = face_recognition.load_image_file("D:/Projects/ultralytics/Test-Video-And-Images/elonMusk.jpg")
 elon_face_encoding = face_recognition.face_encodings(elon_image)[0]
 
-woods_image = face_recognition.load_image_file("./images/messi/image1.jpg")
+woods_image = face_recognition.load_image_file("D:/Projects/ultralytics/Test-Video-And-Images/tigerWoods.jpeg")
 woods_face_encoding = face_recognition.face_encodings(woods_image)[0]
 
-nico_image = face_recognition.load_image_file("./images/rabita/image1.jpg")
+nico_image = face_recognition.load_image_file("D:/Projects/ultralytics/Test-Video-And-Images/nicolainielsen.png")
 nico_face_encoding = face_recognition.face_encodings(nico_image)[0]
 
 # Create arrays of known face encodings and their names
@@ -38,7 +38,7 @@ face_names = []
 process_this_frame = True
 
 
-capture = cv2.VideoCapture(0)
+capture = cv2.VideoCapture(1)
 
 while True:
     
@@ -63,10 +63,10 @@ while True:
             matches = face_recognition.compare_faces(known_face_encodings, face_encoding)
             name = "Unknown"
 
-            # If a match was found in known_face_encodings, just use the first one.
-            if True in matches:
-                first_match_index = matches.index(True)
-                name = known_face_names[first_match_index]
+            # # If a match was found in known_face_encodings, just use the first one.
+            # if True in matches:
+            #     first_match_index = matches.index(True)
+            #     name = known_face_names[first_match_index]
 
             # Or instead, use the known face with the smallest distance to the new face
             face_distances = face_recognition.face_distance(known_face_encodings, face_encoding)
