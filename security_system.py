@@ -35,7 +35,7 @@ logger = logging.getLogger(__name__)
 @dataclass
 class SecurityConfig:
     """Configuration class for security system settings."""
-    known_faces_dir: str = "images"
+    known_faces_dir: str = "family_members"
     alarm_sound_path: str = "./pols-aagyi-pols.mp3"
     alarm_cooldown: int = 3
     confidence_threshold: float = 0.5
