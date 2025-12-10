@@ -26,6 +26,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+requirements.txt
+setup.py
 ultralytics.egg-info
 
 # PyInstaller
@@ -109,14 +111,12 @@ celerybeat.pid
 # Environments
 .env
 .venv
-.idea/
+.idea
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
-/.conda
-/security_env
 
 # Spyder project settings
 .spyderproject
@@ -140,18 +140,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# OS / Editor specific
-.DS_Store
-*.vs
-
-# Project-specific output and data
+# datasets and projects (ignore /datasets dir at root only to allow for docs/en/datasets dir)
 /datasets
 runs/
 wandb/
-/alert_images
-/images
-/tmp
-node_modules/
+.DS_Store
 
 # Neural Network weights -----------------------------------------------------------------------------------------------
 weights/
@@ -181,12 +174,151 @@ pnnx*
 
 # calibration image
 calibration_*.npy
-
-# Media files
+/.conda
+/alert_images
 *.mp4
+/images
+/tmp
+/security_env
 *.avi
 *.jpg
 *.mov
 *.zip
 *.jpeg
+*.vs
+node_modules/
+dist/
+build/
+.idea/
+.vscode/
+*.log
+.env
+.DS_Store
 
+# Shell commands to find & resolve merge conflicts and add a cspell ignore for gitignore words
+# Run from repo root
+
+# 0) See current merge state
+git status --short
+git rev-parse --abbrev-ref HEAD || true
+
+# 1) List files with merge conflicts
+echo "Files with unresolved merge conflicts:"
+git diff --name-only --diff-filter=U || true
+
+# 2) Search for merge conflict markers across the working tree
+echo "Searching for conflict markers (<<<<<<<, =======, >>>>>>>):"
+git grep -n --break --heading -e '^<<<<<<<' -e '^=======' -e '^>>>>>>>' || true
+
+# 3) Show conflict snippets for each conflicted file (helpful to inspect)
+for f in $(git diff --name-only --diff-filter=U); do
+  echo "---- $f ----"
+  # show surrounding lines where markers appear
+  grep -n -n -n -n -n -n -n -e '^<<<<<<<' -e '^=======' -e '^>>>>>>>' "$f" 2>/dev/null || true
+  sed -n '1,240p' "$f"
+  echo
+done
+
+# 4) Resolution options (choose one approach):
+
+# 4A) Manual: open your editor for each file and resolve then:
+# e.g. code (VSCode) or vim
+# code <file>   # or use your editor
+# After manual edits:
+# git add <file>
+
+# 4B) Use git mergetool (interactive)
+# Configure a mergetool first if needed (e.g., meld, kdiff3, vscode)
+# Example for VSCode as mergetool:
+# git config --global merge.tool vscode
+# git config --global mergetool.vscode.cmd "code --wait --merge $MERGED"
+git mergetool
+
+# 4C) Bulk auto-resolve by choosing "ours" for all conflicts (BE CAREFUL: drops incoming changes)
+# Use when you want to keep current branch content and discard merge changes:
+git diff --name-only --diff-filter=U | xargs -r -I{} git checkout --ours "{}"
+git add -u
+git commit -m "Resolve merge conflicts: chose ours for all files"
+
+# 4D) Bulk auto-resolve by choosing "theirs" for all conflicts (BE CAREFUL: accepts incoming changes)
+# Use when you want to accept incoming branch and discard current branch changes:
+# git diff --name-only --diff-filter=U | xargs -r -I{} git checkout --theirs "{}"
+# git add -u
+# git commit -m "Resolve merge conflicts: chose theirs for all files"
+
+# 5) If you want to abort the merge and return to previous HEAD:
+# git merge --abort
+# or if not a merge but a rebase:
+# git rebase --abort
+
+# 6) If merge markers still present after resolving, find them and fail safely:
+if git grep -q '^<<<<<<<' >/dev/null 2>&1; then
+  echo "Warning: merge markers still present in tree. Resolve them before committing."
+  git grep -n '^<<<<<<<'
+  exit 1
+fi
+
+# 7) Fix linter/spell warnings for .gitignore entries by adding them to cspell ignore (optional)
+# Create a .cspell.json file that tells the spellchecker to ignore project-specific words.
+cat > .cspell.json <<'JSON'
+{
+  "version": "0.2",
+  "language": "en",
+  "ignoreWords": [
+    "__pycache__",
+    "sdist",
+    "ultralytics",
+    "htmlcov",
+    "nosetests",
+    "pytest",
+    "mlruns",
+    "webassets",
+    "scrapy",
+    "ipynb",
+    "ipython",
+    "pclprof",
+    "pyenv",
+    "pipenv",
+    "pypa",
+    "Pipfile",
+    "pyflow",
+    "__pypackages__",
+    "celerybeat",
+    "venv",
+    "Spyder",
+    "spyderproject",
+    "spyproject",
+    "ropeproject",
+    "mkdocs",
+    "mypy",
+    "dmypy",
+    "wandb",
+    "onnx",
+    "mlmodel",
+    "mlpackage",
+    "torchscript",
+    "tflite",
+    "openvino",
+    "ncnn",
+    "pnnx",
+    "rknn"
+  ],
+  "ignoreRegExpList": [
+    "/^\\/datasets$/"
+  ]
+}
+JSON
+
+echo ".cspell.json created. Add it to repo if you want to persist spellcheck ignores:"
+echo "  git add .cspell.json && git commit -m 'Add cspell ignore for .gitignore domain words'"
+
+# 8) Helpful debugging commands
+echo "If you want to see all staged vs HEAD versions for a conflicted file:"
+echo "  git ls-files -u"
+echo "  git show :1:<file>   # base"
+echo "  git show :2:<file>   # ours"
+echo "  git show :3:<file>   # theirs"
+
+# 9) Final check
+git status --short
+echo "Done. Resolve shown conflicts, add files (git add), then git commit to finish the merge."
