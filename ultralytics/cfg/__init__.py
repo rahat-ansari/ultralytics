@@ -1,4 +1,5 @@
 # Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+from __future__ import annotations
 
 import shutil
 import subprocess
@@ -74,7 +75,7 @@ MODELS = frozenset({TASK2MODEL[task] for task in TASKS})
 
 ARGV = sys.argv or ["", ""]  # sometimes sys.argv = []
 SOLUTIONS_HELP_MSG = f"""
-    Arguments received: {str(["yolo"] + ARGV[1:])}. Ultralytics 'yolo solutions' usage overview:
+    Arguments received: {["yolo", *ARGV[1:]]!s}. Ultralytics 'yolo solutions' usage overview:
 
         yolo solutions SOLUTION ARGS
 
@@ -104,7 +105,7 @@ SOLUTIONS_HELP_MSG = f"""
         yolo streamlit-predict
     """
 CLI_HELP_MSG = f"""
-    Arguments received: {str(["yolo"] + ARGV[1:])}. Ultralytics 'yolo' commands use the following syntax:
+    Arguments received: {["yolo", *ARGV[1:]]!s}. Ultralytics 'yolo' commands use the following syntax:
 
         yolo TASK MODE ARGS
 
@@ -388,10 +389,10 @@ def get_save_dir(args: SimpleNamespace, name: str = None) -> Path:
     Returns the directory path for saving outputs, derived from arguments or default settings.
 
     Args:
-        args (SimpleNamespace): Namespace object containing configurations such as 'project', 'name', 'task',
-            'mode', and 'save_dir'.
-        name (str | None): Optional name for the output directory. If not provided, it defaults to 'args.name'
-            or the 'args.mode'.
+        args (SimpleNamespace): Namespace object containing configurations such as 'project', 'name', 'task', 'mode',
+            and 'save_dir'.
+        name (str | None): Optional name for the output directory. If not provided, it defaults to 'args.name' or the
+            'args.mode'.
 
     Returns:
         (Path): Directory path where outputs should be saved.
@@ -496,26 +497,30 @@ def check_dict_alignment(base: Dict, custom: Dict, e: Exception = None) -> None:
         raise SyntaxError(string + CLI_HELP_MSG) from e
 
 
-def merge_equals_args(args: List[str]) -> List[str]:
-    """
-    Merges arguments around isolated '=' in a list of strings and joins fragments with brackets.
+def merge_equals_args(args: list[str]) -> list[str]:
+    """Merges arguments around isolated '=' in a list of strings and joins fragments with brackets.
 
-    This function handles the following cases:
-        1. ['arg', '=', 'val'] becomes ['arg=val']
-        2. ['arg=', 'val'] becomes ['arg=val']
-        3. ['arg', '=val'] becomes ['arg=val']
-        4. Joins fragments with brackets, e.g., ['imgsz=[3,', '640,', '640]'] becomes ['imgsz=[3,640,640]']
+        This function handles the following cases:
+            1. ['arg', '=', 'val'] becomes ['arg=val']
+            2. ['arg=', 'val'] becomes ['arg=val']
+            3. ['arg', '=val'] becomes ['arg=val']
+            4. Joins fragments with brackets, e.g., ['imgsz=[3,', '640,', '640]'] becomes ['imgsz=[3,640,640]']
 
-    Args:
-        args (List[str]): A list of strings where each element represents an argument or fragment.
+        Args:
+            args (List[str]): A list of strings where each element represents an argument or fragment.
 
-    Returns:
-        (List[str]): A list of strings where the arguments around isolated '=' are merged and fragments with brackets are joined.
+        Returns:
+    <<<<<<< HEAD
+            (List[str]): A list of strings where the arguments around isolated '=' are merged and fragments with brackets are joined.
+    =======
+            List[str]: A list of strings where the arguments around isolated '=' are merged and fragments with brackets are
+                joined.
+    >>>>>>> 02121a52dd0a636899376093a514e43cc27a4435
 
-    Examples:
-        >>> args = ["arg1", "=", "value", "arg2=", "value2", "arg3", "=value3", "imgsz=[3,", "640,", "640]"]
-        >>> merge_equals_args(args)
-        ['arg1=value', 'arg2=value2', 'arg3=value3', 'imgsz=[3,640,640]']
+        Examples:
+            >>> args = ["arg1", "=", "value", "arg2=", "value2", "arg3", "=value3", "imgsz=[3,", "640,", "640]"]
+            >>> merge_equals_args(args)
+            ['arg1=value', 'arg2=value2', 'arg3=value3', 'imgsz=[3,640,640]']
     """
     new_args = []
     current = ""
@@ -555,16 +560,15 @@ def merge_equals_args(args: List[str]) -> List[str]:
     return new_args
 
 
-def handle_yolo_hub(args: List[str]) -> None:
-    """
-    Handles Ultralytics HUB command-line interface (CLI) commands for authentication.
+def handle_yolo_hub(args: list[str]) -> None:
+    """Handles Ultralytics HUB command-line interface (CLI) commands for authentication.
 
     This function processes Ultralytics HUB CLI commands such as login and logout. It should be called when executing a
     script with arguments related to HUB authentication.
 
     Args:
-        args (List[str]): A list of command line arguments. The first argument should be either 'login'
-            or 'logout'. For 'login', an optional second argument can be the API key.
+        args (List[str]): A list of command line arguments. The first argument should be either 'login' or 'logout'. For
+            'login', an optional second argument can be the API key.
 
     Examples:
         $ yolo login YOUR_API_KEY
@@ -585,9 +589,8 @@ def handle_yolo_hub(args: List[str]) -> None:
         hub.logout()
 
 
-def handle_yolo_settings(args: List[str]) -> None:
-    """
-    Handles YOLO settings command-line interface (CLI) commands.
+def handle_yolo_settings(args: list[str]) -> None:
+    """Handles YOLO settings command-line interface (CLI) commands.
 
     This function processes YOLO settings CLI commands such as reset and updating individual settings. It should be
     called when executing a script with arguments related to YOLO settings management.
@@ -626,36 +629,39 @@ def handle_yolo_settings(args: List[str]) -> None:
         LOGGER.warning(f"settings error: '{e}'. Please see {url} for help.")
 
 
-def handle_yolo_solutions(args: List[str]) -> None:
-    """
-    Processes YOLO solutions arguments and runs the specified computer vision solutions pipeline.
+def handle_yolo_solutions(args: list[str]) -> None:
+    """Processes YOLO solutions arguments and runs the specified computer vision solutions pipeline.
 
-    Args:
-        args (List[str]): Command-line arguments for configuring and running the Ultralytics YOLO
-            solutions: https://docs.ultralytics.com/solutions/, It can include solution name, source,
-            and other configuration parameters.
+        Args:
+            args (List[str]): Command-line arguments for configuring and running the Ultralytics YOLO
+            solutions: https://docs.ultralytics.com/solutions/, It can include solution name, source, and other
+                configuration parameters.
 
-    Examples:
-        Run people counting solution with default settings:
-        >>> handle_yolo_solutions(["count"])
+        Examples:
+            Run people counting solution with default settings:
+            >>> handle_yolo_solutions(["count"])
 
-        Run analytics with custom configuration:
-        >>> handle_yolo_solutions(["analytics", "conf=0.25", "source=path/to/video.mp4"])
+            Run analytics with custom configuration:
+            >>> handle_yolo_solutions(["analytics", "conf=0.25", "source=path/to/video.mp4"])
 
-        Run inference with custom configuration, requires Streamlit version 1.29.0 or higher.
-        >>> handle_yolo_solutions(["inference", "model=yolo11n.pt"])
+            Run inference with custom configuration, requires Streamlit version 1.29.0 or higher.
+            >>> handle_yolo_solutions(["inference", "model=yolo11n.pt"])
 
-    Notes:
-        - Arguments can be provided in the format 'key=value' or as boolean flags
-        - Available solutions are defined in SOLUTION_MAP with their respective classes and methods
-        - If an invalid solution is provided, defaults to 'count' solution
-        - Output videos are saved in 'runs/solution/{solution_name}' directory
-        - For 'analytics' solution, frame numbers are tracked for generating analytical graphs
-        - Video processing can be interrupted by pressing 'q'
-        - Processes video frames sequentially and saves output in .avi format
-        - If no source is specified, downloads and uses a default sample video
-        - The inference solution will be launched using the 'streamlit run' command.
-        - The Streamlit app file is located in the Ultralytics package directory.
+        Notes:
+            - Arguments can be provided in the format 'key=value' or as boolean flags
+            - Available solutions are defined in SOLUTION_MAP with their respective classes and methods
+            - If an invalid solution is provided, defaults to 'count' solution
+            - Output videos are saved in 'runs/solution/{solution_name}' directory
+            - For 'analytics' solution, frame numbers are tracked for generating analytical graphs
+            - Video processing can be interrupted by pressing 'q'
+            - Processes video frames sequentially and saves output in .avi format
+    <<<<<<< HEAD
+            - If no source is specified, downloads and uses a default sample video
+            - The inference solution will be launched using the 'streamlit run' command.
+    =======
+            - If no source is specified, downloads and uses a default sample video        - The inference solution will be launched using the 'streamlit run' command.
+    >>>>>>> 02121a52dd0a636899376093a514e43cc27a4435
+            - The Streamlit app file is located in the Ultralytics package directory.
     """
     from ultralytics.solutions.config import SolutionConfig
 
@@ -783,8 +789,8 @@ def smart_value(v: str) -> Any:
         v (str): The string representation of the value to be converted.
 
     Returns:
-        (Any): The converted value. The type can be None, bool, int, float, or the original string if no conversion
-            is applicable.
+        (Any): The converted value. The type can be None, bool, int, float, or the original string if no conversion is
+            applicable.
 
     Examples:
         >>> smart_value("42")
@@ -821,8 +827,8 @@ def entrypoint(debug: str = "") -> None:
     """
     Ultralytics entrypoint function for parsing and executing command-line arguments.
 
-    This function serves as the main entry point for the Ultralytics CLI, parsing command-line arguments and
-    executing the corresponding tasks such as training, validation, prediction, exporting models, and more.
+    This function serves as the main entry point for the Ultralytics CLI, parsing command-line arguments and executing
+    the corresponding tasks such as training, validation, prediction, exporting models, and more.
 
     Args:
         debug (str): Space-separated string of command-line arguments for debugging purposes.
@@ -993,9 +999,9 @@ def copy_default_cfg() -> None:
     """
     Copies the default configuration file and creates a new one with '_copy' appended to its name.
 
-    This function duplicates the existing default configuration file (DEFAULT_CFG_PATH) and saves it
-    with '_copy' appended to its name in the current working directory. It provides a convenient way
-    to create a custom configuration file based on the default settings.
+    This function duplicates the existing default configuration file (DEFAULT_CFG_PATH) and saves it with '_copy'
+    appended to its name in the current working directory. It provides a convenient way to create a custom configuration
+    file based on the default settings.
 
     Examples:
         >>> copy_default_cfg()

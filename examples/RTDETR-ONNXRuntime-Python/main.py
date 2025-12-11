@@ -15,7 +15,6 @@ from ultralytics.utils.checks import check_requirements, check_yaml
 class RTDETR:
     """
     RTDETR object detection model class for handling inference and visualization.
-
     This class implements the RT-DETR (Real-Time Detection Transformer) model for object detection tasks,
     supporting ONNX model inference and visualization of detection results.
 
@@ -38,7 +37,6 @@ class RTDETR:
     def __init__(self, model_path: str, img_path: str, conf_thres: float = 0.5, iou_thres: float = 0.5):
         """
         Initialize the RTDETR object detection model.
-
         Args:
             model_path (str): Path to the ONNX model file.
             img_path (str): Path to the input image.
