@@ -322,3 +322,4 @@ echo "  git show :3:<file>   # theirs"
 # 9) Final check
 git status --short
 echo "Done. Resolve shown conflicts, add files (git add), then git commit to finish the merge."
+.gitignore.rej
